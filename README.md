@@ -34,7 +34,7 @@ The explorer contains its own code, styles, equations, and reference data. Calcu
 | [Opening instructions](README.txt) | Plain-text student instructions and edition notes |
 | [Audit report](AUDIT_REPORT.md) | Independent reviews, corrections, examples, and verification limits |
 | [Validation examples](VALIDATION_EXAMPLES.json) | Full input assumptions and independently calculated example outputs |
-| [Audit tests](audit_tests/) | Optional numerical, physics, and software verification materials |
+| [Audit tests](https://github.com/Rpirayesh/E8-eVTOL-Design-Explorer/tree/main/audit_tests) | Optional numerical, physics, and software verification materials |
 | [Checksums](CHECKSUMS.txt) | SHA-256 checksums for the audited files |
 
 ## Model scope
