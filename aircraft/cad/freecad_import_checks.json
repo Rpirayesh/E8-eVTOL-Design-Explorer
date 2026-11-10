@@ -1,0 +1,1056 @@
+{
+  "version": [
+    "1",
+    "0",
+    "0",
+    "",
+    "https://code.launchpad.net/~vcs-imports/freecad/trunk",
+    "2026/08/25 11:49:11"
+  ],
+  "objects": [
+    {
+      "name": "Part__Feature",
+      "label": "Fuselage_shell_envelope_15mm_not_laminate",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature001",
+      "label": "Canopy_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature002",
+      "label": "Cabin_floor",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature003",
+      "label": "Cabin_bulkhead_-1500",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature004",
+      "label": "Cabin_bulkhead_-700",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature005",
+      "label": "Cabin_bulkhead_200",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature006",
+      "label": "Cabin_bulkhead_1000",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature007",
+      "label": "Cabin_bulkhead_1700",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature008",
+      "label": "Cabin_longeron_-700",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature009",
+      "label": "Cabin_longeron_700",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature010",
+      "label": "Wing_envelope_L",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature011",
+      "label": "Aileron_envelope_L",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature012",
+      "label": "Wing_envelope_R",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature013",
+      "label": "Aileron_envelope_R",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature014",
+      "label": "Main_spar_homogeneous_box_assumption",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature015",
+      "label": "Wing_rib_envelope_-4300",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature016",
+      "label": "Wing_rib_envelope_-3000",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature017",
+      "label": "Wing_rib_envelope_-1500",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature018",
+      "label": "Wing_rib_envelope_1500",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature019",
+      "label": "Wing_rib_envelope_3000",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature020",
+      "label": "Wing_rib_envelope_4300",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature021",
+      "label": "High_wing_pylon_-1000",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature022",
+      "label": "High_wing_support_rail_-1000",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature023",
+      "label": "High_wing_pylon_1000",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature024",
+      "label": "High_wing_support_rail_1000",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature025",
+      "label": "Tail_boom",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature026",
+      "label": "Horizontal_tail_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature027",
+      "label": "Vertical_tail_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature028",
+      "label": "Longitudinal_boom_-1",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature029",
+      "label": "Outrigger_-1_-850",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature030",
+      "label": "Diagonal_brace_-1_-850",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature031",
+      "label": "Outrigger_-1_850",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature032",
+      "label": "Diagonal_brace_-1_850",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature033",
+      "label": "Longitudinal_boom_1",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature034",
+      "label": "Outrigger_1_-850",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature035",
+      "label": "Diagonal_brace_1_-850",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature036",
+      "label": "Outrigger_1_850",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature037",
+      "label": "Diagonal_brace_1_850",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature038",
+      "label": "Battery_module_-150_-430",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature039",
+      "label": "Battery_module_-150_-430_tray",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature040",
+      "label": "Battery_module_-150_430",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature041",
+      "label": "Battery_module_-150_430_tray",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature042",
+      "label": "Battery_module_1250_-430",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature043",
+      "label": "Battery_module_1250_-430_tray",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature044",
+      "label": "Battery_module_1250_430",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature045",
+      "label": "Battery_module_1250_430_tray",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature046",
+      "label": "Seat_cushion_-400",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature047",
+      "label": "Seat_back_-400",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature048",
+      "label": "Control_stick_-400",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature049",
+      "label": "Seat_cushion_400",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature050",
+      "label": "Seat_back_400",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature051",
+      "label": "Control_stick_400",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature052",
+      "label": "Instrument_panel_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature053",
+      "label": "Avionics_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature054",
+      "label": "Power_distribution_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature055",
+      "label": "Cooling_radiator_envelope_-700",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature056",
+      "label": "Cooling_radiator_envelope_700",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature057",
+      "label": "Wheel_500_-1150",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature058",
+      "label": "Gear_strut_500_-1150",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature059",
+      "label": "Wheel_500_1150",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature060",
+      "label": "Gear_strut_500_1150",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature061",
+      "label": "Wheel_-1850_0",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature062",
+      "label": "Gear_strut_-1850_0",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature063",
+      "label": "R1_standoff",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature064",
+      "label": "R1_fork_crosshead",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature065",
+      "label": "R1_tilt_axle",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature066",
+      "label": "R1_tilt_actuator_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature067",
+      "label": "R1_fork_-160",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature068",
+      "label": "R1_fork_160",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature069",
+      "label": "R1_motor_REB50_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature070",
+      "label": "R1_rotating_yoke_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature071",
+      "label": "R1_hub",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature072",
+      "label": "R1_inverter_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature073",
+      "label": "R1_cable_route_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature074",
+      "label": "R1_blade_1_VISUAL_ONLY",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature075",
+      "label": "R1_blade_2_VISUAL_ONLY",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature076",
+      "label": "R2_standoff",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature077",
+      "label": "R2_fork_crosshead",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature078",
+      "label": "R2_tilt_axle",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature079",
+      "label": "R2_tilt_actuator_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature080",
+      "label": "R2_fork_-160",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature081",
+      "label": "R2_fork_160",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature082",
+      "label": "R2_motor_REB50_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature083",
+      "label": "R2_rotating_yoke_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature084",
+      "label": "R2_hub",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature085",
+      "label": "R2_inverter_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature086",
+      "label": "R2_cable_route_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature087",
+      "label": "R2_blade_1_VISUAL_ONLY",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature088",
+      "label": "R2_blade_2_VISUAL_ONLY",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature089",
+      "label": "R3_standoff",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature090",
+      "label": "R3_fork_crosshead",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature091",
+      "label": "R3_tilt_axle",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature092",
+      "label": "R3_tilt_actuator_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature093",
+      "label": "R3_fork_-160",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature094",
+      "label": "R3_fork_160",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature095",
+      "label": "R3_motor_REB50_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature096",
+      "label": "R3_rotating_yoke_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature097",
+      "label": "R3_hub",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature098",
+      "label": "R3_inverter_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature099",
+      "label": "R3_cable_route_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature100",
+      "label": "R3_blade_1_VISUAL_ONLY",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature101",
+      "label": "R3_blade_2_VISUAL_ONLY",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature102",
+      "label": "R4_standoff",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature103",
+      "label": "R4_fork_crosshead",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature104",
+      "label": "R4_tilt_axle",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature105",
+      "label": "R4_tilt_actuator_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature106",
+      "label": "R4_fork_-160",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature107",
+      "label": "R4_fork_160",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature108",
+      "label": "R4_motor_REB50_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature109",
+      "label": "R4_rotating_yoke_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature110",
+      "label": "R4_hub",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature111",
+      "label": "R4_inverter_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature112",
+      "label": "R4_cable_route_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature113",
+      "label": "R4_blade_1_VISUAL_ONLY",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature114",
+      "label": "R4_blade_2_VISUAL_ONLY",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature115",
+      "label": "R5_standoff",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature116",
+      "label": "R5_fork_crosshead",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature117",
+      "label": "R5_tilt_axle",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature118",
+      "label": "R5_tilt_actuator_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature119",
+      "label": "R5_fork_-160",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature120",
+      "label": "R5_fork_160",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature121",
+      "label": "R5_motor_REB50_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature122",
+      "label": "R5_rotating_yoke_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature123",
+      "label": "R5_hub",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature124",
+      "label": "R5_inverter_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature125",
+      "label": "R5_cable_route_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature126",
+      "label": "R5_blade_1_VISUAL_ONLY",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature127",
+      "label": "R5_blade_2_VISUAL_ONLY",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature128",
+      "label": "R6_standoff",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature129",
+      "label": "R6_fork_crosshead",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature130",
+      "label": "R6_tilt_axle",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature131",
+      "label": "R6_tilt_actuator_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature132",
+      "label": "R6_fork_-160",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature133",
+      "label": "R6_fork_160",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature134",
+      "label": "R6_motor_REB50_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature135",
+      "label": "R6_rotating_yoke_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature136",
+      "label": "R6_hub",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature137",
+      "label": "R6_inverter_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature138",
+      "label": "R6_cable_route_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature139",
+      "label": "R6_blade_1_VISUAL_ONLY",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature140",
+      "label": "R6_blade_2_VISUAL_ONLY",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature141",
+      "label": "R7_standoff",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature142",
+      "label": "R7_fork_crosshead",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature143",
+      "label": "R7_tilt_axle",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature144",
+      "label": "R7_tilt_actuator_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature145",
+      "label": "R7_fork_-160",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature146",
+      "label": "R7_fork_160",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature147",
+      "label": "R7_motor_REB50_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature148",
+      "label": "R7_rotating_yoke_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature149",
+      "label": "R7_hub",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature150",
+      "label": "R7_inverter_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature151",
+      "label": "R7_cable_route_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature152",
+      "label": "R7_blade_1_VISUAL_ONLY",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature153",
+      "label": "R7_blade_2_VISUAL_ONLY",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature154",
+      "label": "R8_standoff",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature155",
+      "label": "R8_fork_crosshead",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature156",
+      "label": "R8_tilt_axle",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature157",
+      "label": "R8_tilt_actuator_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature158",
+      "label": "R8_fork_-160",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature159",
+      "label": "R8_fork_160",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature160",
+      "label": "R8_motor_REB50_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature161",
+      "label": "R8_rotating_yoke_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature162",
+      "label": "R8_hub",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature163",
+      "label": "R8_inverter_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature164",
+      "label": "R8_cable_route_envelope",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature165",
+      "label": "R8_blade_1_VISUAL_ONLY",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "Part__Feature166",
+      "label": "R8_blade_2_VISUAL_ONLY",
+      "valid": true,
+      "solids": 1
+    },
+    {
+      "name": "E8_concept_winged",
+      "label": "E8_concept_winged",
+      "valid": true,
+      "solids": 167
+    },
+    {
+      "name": "X_Axis",
+      "label": "X-axis",
+      "valid": true,
+      "solids": 0
+    },
+    {
+      "name": "Y_Axis",
+      "label": "Y-axis",
+      "valid": true,
+      "solids": 0
+    },
+    {
+      "name": "Z_Axis",
+      "label": "Z-axis",
+      "valid": true,
+      "solids": 0
+    },
+    {
+      "name": "XY_Plane",
+      "label": "XY-plane",
+      "valid": true,
+      "solids": 0
+    },
+    {
+      "name": "XZ_Plane",
+      "label": "XZ-plane",
+      "valid": true,
+      "solids": 0
+    },
+    {
+      "name": "YZ_Plane",
+      "label": "YZ-plane",
+      "valid": true,
+      "solids": 0
+    }
+  ]
+}

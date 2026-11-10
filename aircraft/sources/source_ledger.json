@@ -1,0 +1,101 @@
+[
+  {
+    "id": "S01",
+    "title": "MGM COMPRO REB 50",
+    "url": "https://mgm-compro.com/electric-motor/reb-50-50-kw/",
+    "kind": "manufacturer",
+    "facts": "12 kg; 50 kW peak; 30\u201340 kW continuous; 200 Nm maximum torque; 1500\u20134000 rpm; 400\u2013800 V. Installation-dependent ratings. Price by quotation.",
+    "checked_date": "2026-11-09",
+    "status": "Web source inspected; not a supplier quotation or approval"
+  },
+  {
+    "id": "S02",
+    "title": "MGM COMPRO HBCi 400800",
+    "url": "https://mgm-compro.com/controllers-inverters-escs/hbci-400800/",
+    "kind": "manufacturer",
+    "facts": "120\u2013800 V; 4 kg cooling-plate version. Larger cooled versions weigh more. Specific cooling integration and price require supplier confirmation. Oversized for this concept.",
+    "checked_date": "2026-11-09",
+    "status": "Web source inspected; not a supplier quotation or approval"
+  },
+  {
+    "id": "S03",
+    "title": "E-PROPS adjustable-pitch UAV range",
+    "url": "https://uav.e-props.fr/adjustable-pitch.php",
+    "kind": "manufacturer",
+    "facts": "Ground-adjustable range for 50\u2013180 kW engines. Matched CW/CCW diameter limited to 74.8 inches. Exact thrust, pitch, rpm, hub and aircraft match require supplier engineering; range membership does not establish compatibility.",
+    "checked_date": "2026-11-09",
+    "status": "Web source inspected; not a supplier quotation or approval"
+  },
+  {
+    "id": "S04",
+    "title": "Molicel P50B product and datasheet v1.1",
+    "url": "https://www.molicel.com/product/inr-21700-p50b/",
+    "kind": "manufacturer",
+    "facts": "3.6 V nominal; 5.0 Ah typical; maximum cell mass 71 g; manufacturer page lists 60 A discharge. Cell-level ratings are not a complete pack qualification.",
+    "checked_date": "2026-11-09",
+    "status": "Web source inspected; not a supplier quotation or approval"
+  },
+  {
+    "id": "S05",
+    "title": "Molicel P50B original datasheet",
+    "url": "https://www.molicel.com/wp-content/uploads/4.TR%E7%B0%A1%E6%98%93%E8%A6%8F%E6%A0%BC_INR21700P50B_1.1_Product-Data-Sheet-of-INR-21700-P50B-80122.pdf",
+    "kind": "manufacturer",
+    "facts": "18.0 Wh typical / 17.5 Wh minimum; 4.2 V charge; 12.8 m\u03a9 typical DC impedance at 50% SOC; 60 A discharge with 80\u00b0C cutoff. Screening uses 40 A, 3.0 V OCV and constant resistance, not measured pack behavior.",
+    "checked_date": "2026-11-09",
+    "status": "Web source inspected; not a supplier quotation or approval"
+  },
+  {
+    "id": "S06",
+    "title": "18650 Battery Store P50B retail/bulk listing",
+    "url": "https://www.18650batterystore.com/products/molicel-21700-p50b-5000mah-50a-battery",
+    "kind": "seller",
+    "facts": "Opened page: $11.99 single cell; $7.50 at 1000+ quantity. Search excerpt showed a different promotion. Use the opened bulk tier for the dated cell-only cost, subject to checkout and stock confirmation.",
+    "checked_date": "2026-11-09",
+    "status": "Web source inspected; not a supplier quotation or approval"
+  },
+  {
+    "id": "S07",
+    "title": "T-MOTOR U15XXL combination specifications and test table",
+    "url": "https://store.tmotor.com/product/u15xxl-manned-aircraft-combo.html",
+    "kind": "manufacturer/seller",
+    "facts": "Motor listing $1999; Thunder 300A 24S $1599; NS62\u00d724 listing $2599 (sales unit needs confirmation). NS62 test maximum is 101.449 kgf at 96 V, 209.09 A, 2203 rpm; coil temperature note 184\u00b0C at 32\u00b0C ambient after one minute at full throttle. This is not a continuous installed rating.",
+    "checked_date": "2026-11-09",
+    "status": "Web source inspected; not a supplier quotation or approval"
+  },
+  {
+    "id": "S08",
+    "title": "E-PROPS aircraft prices (comparison only)",
+    "url": "https://aircraft.e-props.fr/ordering.php",
+    "kind": "manufacturer/seller",
+    "facts": "Durandal/Excalibur two-blade listing \u20ac1304 excluding tax/shipping. This is not a quotation for the proposed matched UAV rotors and is not entered as their price.",
+    "checked_date": "2026-11-09",
+    "status": "Web source inspected; not a supplier quotation or approval"
+  },
+  {
+    "id": "S09",
+    "title": "Holybro Pixhawk 6X",
+    "url": "https://holybro.com/products/pixhawk-6x",
+    "kind": "manufacturer/seller",
+    "facts": "Opened Standard v2A / PM02D selection $422.99. Educational subscale/bench candidate only; the included power module is not rated for the concept HV bus. Not a qualified two-person flight-control system.",
+    "checked_date": "2026-11-09",
+    "status": "Web source inspected; not a supplier quotation or approval"
+  },
+  {
+    "id": "S10",
+    "title": "NASA lift equation",
+    "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/lift-equation-2/",
+    "kind": "theory",
+    "facts": "Reference for L=\u03c1V\u00b2SCL/2; airfoil coefficients remain assumptions.",
+    "checked_date": "2026-11-09",
+    "status": "Web source inspected; not a supplier quotation or approval"
+  },
+  {
+    "id": "S11",
+    "title": "NASA NDARC theory appendix",
+    "url": "https://rotorcraft.arc.nasa.gov/Publications/files/NASA%20TP-2009-215402-app3.pdf",
+    "kind": "theory",
+    "facts": "Reference background for rotor momentum and profile-power estimates. This repository is not NDARC and does not implement its complete rotor model.",
+    "checked_date": "2026-11-09",
+    "status": "Web source inspected; not a supplier quotation or approval"
+  }
+]

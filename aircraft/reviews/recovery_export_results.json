@@ -1,0 +1,70 @@
+{
+  "E8_Winged_Hover.step": {
+    "leaf_objects": 167,
+    "unique_labels": 167,
+    "solids": 167,
+    "invalid": [],
+    "bbox_mm": [
+      -5300.000000000024,
+      -4500.0,
+      -1250.0,
+      5300.000000000024,
+      4500.0,
+      2535.0
+    ]
+  },
+  "E8_Winged_Cruise.step": {
+    "leaf_objects": 167,
+    "unique_labels": 167,
+    "solids": 167,
+    "invalid": [],
+    "bbox_mm": [
+      -4885.0,
+      -4500.0,
+      -1250.0,
+      4855.0,
+      4500.0,
+      2950.000000000024
+    ]
+  },
+  "E8_Wingless_Hover.step": {
+    "leaf_objects": 149,
+    "unique_labels": 149,
+    "solids": 149,
+    "invalid": [],
+    "bbox_mm": [
+      -5300.000000000024,
+      -3500.0,
+      -1250.0,
+      5300.000000000024,
+      3787.5399708983305,
+      2535.0
+    ]
+  },
+  "E8_Concept_Assembly.FCStd": {
+    "leaf_objects": 167,
+    "unique_labels": 167,
+    "solids": 167,
+    "invalid": [],
+    "bbox_mm": [
+      -5300.000000000024,
+      -4500.0,
+      -1250.0,
+      5300.000000000024,
+      4500.0,
+      2535.0
+    ]
+  },
+  "E8_Winged_Hover.stl": {
+    "triangles": 25818,
+    "actual_bytes": 1290984,
+    "expected_bytes": 1290984,
+    "nonfinite": 0
+  },
+  "E8_Wingless_Hover.stl": {
+    "triangles": 23386,
+    "actual_bytes": 1169384,
+    "expected_bytes": 1169384,
+    "nonfinite": 0
+  }
+}

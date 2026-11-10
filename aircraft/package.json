@@ -1,0 +1,14 @@
+{
+  "name": "e8-aircraft-concept-verification",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Optional developer checks; not required to open the offline viewer",
+  "scripts": {
+    "test:viewer": "node reviews/test_viewer_canvas.cjs",
+    "test:viewer:browser": "node reviews/test_viewer.cjs"
+  },
+  "devDependencies": {
+    "@napi-rs/canvas": "0.1.100",
+    "playwright": "1.62.1"
+  }
+}

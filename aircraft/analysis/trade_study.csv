@@ -1,0 +1,625 @@
+configuration,diameter_m,wing_area_m2,span_m,cruise_kph,battery_parallel,mass_kg,mission_kwh,range_km,hover_kw,pass_screens,reasons
+winged,1.6,12,9,120,12,999.2944169735495,26.45991262370194,15.868064727326644,203.48234569421362,False,mission energy; cell current proxy; loaded voltage below motor published range; stall margin / full wing support
+winged,1.6,12,9,120,16,1054.8499725277893,26.97129412002733,29.474377890190777,219.81301817811098,False,less than 20% continuous hover power headroom; stall margin / full wing support
+winged,1.6,12,9,120,20,1110.4055280820294,27.900809050163772,41.65907238506135,236.57959813771856,False,less than 20% continuous hover power headroom; stall margin / full wing support
+winged,1.6,12,9,130,12,999.2944169735495,27.425166956888646,14.58555161514909,203.48234569421362,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,12,9,130,16,1054.8499725277893,27.75975978104686,27.52871076012573,219.81301817811098,False,less than 20% continuous hover power headroom; stall margin / full wing support
+winged,1.6,12,9,130,20,1110.4055280820294,28.413605704928155,39.875982907884,236.57959813771856,False,less than 20% continuous hover power headroom; stall margin / full wing support
+winged,1.6,12,9,140,12,999.2944169735495,27.832480124483794,14.104510112570086,203.48234569421362,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,12,9,140,16,1054.8499725277893,28.359585199564254,26.212358637890137,219.81301817811098,False,less than 20% continuous hover power headroom
+winged,1.6,12,9,140,20,1110.4055280820294,29.271811346190127,37.21050385471296,236.57959813771856,False,less than 20% continuous hover power headroom
+winged,1.6,12,9,150,12,999.2944169735495,28.47239711896004,13.409688114386029,203.48234569421362,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,12,9,150,16,1054.8499725277893,28.905444213262236,25.119285775015822,219.81301817811098,False,less than 20% continuous hover power headroom
+winged,1.6,12,9,150,20,1110.4055280820294,29.74072251159042,35.899361618730744,236.57959813771856,False,less than 20% continuous hover power headroom
+winged,1.6,12,10,120,12,1004.3601896643402,25.908521243608703,16.669882823909536,204.953070240892,False,mission energy; cell current proxy; loaded voltage below motor published range; stall margin / full wing support; spar depth / wing envelope
+winged,1.6,12,10,120,16,1059.91574521858,26.431628599195122,31.08315277086057,221.32397152115982,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,12,10,120,20,1115.47130077282,27.372998390940232,43.89157157106665,238.12973661911138,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,12,10,130,12,1004.3601896643402,26.76588859397515,15.38995731885611,204.953070240892,False,mission energy; cell current proxy; loaded voltage below motor published range; spar depth / wing envelope
+winged,1.6,12,10,130,16,1059.91574521858,27.059957931257603,29.329756590263116,221.32397152115982,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,12,10,130,20,1115.47130077282,27.73898344448768,42.45784345609768,238.12973661911138,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,12,10,140,12,1004.3601896643402,27.273609722897145,14.720632523835883,204.953070240892,False,mission energy; cell current proxy; loaded voltage below motor published range; spar depth / wing envelope
+winged,1.6,12,10,140,16,1059.91574521858,27.734047786180682,27.65606353406609,221.32397152115982,False,less than 20% continuous hover power headroom; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,12,10,140,20,1115.47130077282,28.57536439931779,39.508552783947046,238.12973661911138,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,12,10,150,12,1004.3601896643402,27.991644414681318,13.867682512672111,204.953070240892,False,mission energy; cell current proxy; loaded voltage below motor published range; spar depth / wing envelope
+winged,1.6,12,10,150,16,1059.91574521858,28.36855169298264,26.24628249877847,221.32397152115982,False,less than 20% continuous hover power headroom; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,12,10,150,20,1115.47130077282,29.143596430362024,37.72803855304324,238.12973661911138,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,12,11,120,12,1009.2269394111387,25.538998630837963,17.25836324722377,206.36951111638425,False,mission energy; cell current proxy; loaded voltage below motor published range; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,12,11,120,16,1064.7824949653786,26.06810686699449,32.32086349870907,222.77896778349424,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,12,11,120,20,1120.3380505196185,27.01835483689024,45.61678390329802,239.62229264418116,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,12,11,130,12,1009.2269394111387,26.30705420324201,16.007181828639848,206.36951111638425,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,12,11,130,16,1064.7824949653786,26.57603416869786,30.765152318882055,222.77896778349424,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,12,11,130,20,1120.3380505196185,27.273478868529033,44.52301594828438,239.62229264418116,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,12,11,140,12,1009.2269394111387,26.888155446997295,15.174835927688122,206.36951111638425,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,12,11,140,16,1064.7824949653786,27.296140914718208,28.799840684593512,222.77896778349424,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,12,11,140,20,1120.3380505196185,28.084041084298036,41.37138350429416,239.62229264418116,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,12,11,150,12,1009.2269394111387,27.66344890136496,14.190377824330595,206.36951111638425,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,12,11,150,16,1064.7824949653786,27.99565492039438,27.117107522653384,222.77896778349424,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,12,11,150,20,1120.3380505196185,28.72510099024543,39.17804334821557,239.62229264418116,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,14,9,120,12,1010.8470040318791,27.92111572142883,13.871845753533918,206.84178103970598,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,14,9,120,16,1066.402559586119,28.132792645167335,26.829265610261135,223.26405210393986,False,less than 20% continuous hover power headroom; stall margin / full wing support
+winged,1.6,14,9,120,20,1121.958115140359,28.831278500188727,38.887884598027355,240.11986144881865,False,less than 20% continuous hover power headroom; stall margin / full wing support
+winged,1.6,14,9,130,12,1010.8470040318791,28.08519636351753,13.687314712519173,206.84178103970598,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,14,9,130,16,1066.402559586119,28.67565019659023,25.67500149664679,223.26405210393986,False,less than 20% continuous hover power headroom
+winged,1.6,14,9,130,20,1121.958115140359,29.663004305844122,36.39928700744068,240.11986144881865,False,less than 20% continuous hover power headroom
+winged,1.6,14,9,140,12,1010.8470040318791,28.5292625538003,13.211669379838405,206.84178103970598,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,14,9,140,16,1066.402559586119,29.020972841585554,24.99105799716798,223.26405210393986,False,less than 20% continuous hover power headroom
+winged,1.6,14,9,140,20,1121.958115140359,29.921423370113708,35.689664798229714,240.11986144881865,False,less than 20% continuous hover power headroom
+winged,1.6,14,9,150,12,1010.8470040318791,29.215570912242477,12.53826783463825,206.84178103970598,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,14,9,150,16,1066.402559586119,29.608109484472838,23.908201795889678,223.26405210393986,False,less than 20% continuous hover power headroom
+winged,1.6,14,9,150,20,1121.958115140359,30.428611833806805,34.374396881267884,240.11986144881865,False,less than 20% continuous hover power headroom
+winged,1.6,14,10,120,12,1016.66666666272,27.09257215821166,14.822655567484611,208.54140906720863,False,mission energy; cell current proxy; loaded voltage below motor published range; stall margin / full wing support
+winged,1.6,14,10,120,16,1072.2222222169598,27.326252442029734,28.846264641842758,225.0096302704152,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar deflection proxy
+winged,1.6,14,10,120,20,1127.7777777712,28.050665884477908,41.78087679565523,241.91021080816168,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,14,10,130,12,1016.66666666272,27.42786496067533,14.391991620050806,208.54140906720863,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,14,10,130,16,1072.2222222169598,27.936509975955698,27.348799674403164,225.0096302704152,False,less than 20% continuous hover power headroom; wing spar deflection proxy
+winged,1.6,14,10,130,20,1127.7777777712,28.838359934256225,39.050582564164884,241.91021080816168,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,14,10,140,12,1016.66666666272,27.974167775303457,13.741479773509464,208.54140906720863,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,14,10,140,16,1072.2222222169598,28.397004074353298,26.317870677682883,225.0096302704152,False,less than 20% continuous hover power headroom; wing spar deflection proxy
+winged,1.6,14,10,140,20,1127.7777777712,29.22544954310207,37.83555546459617,241.91021080816168,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,14,10,150,12,1016.66666666272,28.739858747835747,12.92280538300767,208.54140906720863,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,14,10,150,16,1072.2222222169598,29.07429603911951,24.93539170527221,225.0096302704152,False,less than 20% continuous hover power headroom; wing spar deflection proxy
+winged,1.6,14,10,150,20,1127.7777777712,29.833638887723524,36.072128371088276,241.91021080816168,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,14,11,120,12,1022.2576876902896,26.51375680285488,15.574730676255674,210.17885087529575,False,mission energy; cell current proxy; loaded voltage below motor published range; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,14,11,120,16,1077.8132432445295,26.771794512149185,30.474240948000073,226.69109647802196,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,14,11,120,20,1133.3687987987694,27.51433592095111,44.12643439226806,243.63457780252278,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,14,11,130,12,1022.2576876902896,26.974853136654424,14.919146254210574,210.17885087529575,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,14,11,130,16,1077.8132432445295,27.419146693185898,28.70004324697617,226.69109647802196,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,14,11,130,20,1133.3687987987694,28.25663959183982,41.24248599024183,243.63457780252278,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,14,11,140,12,1022.2576876902896,27.595917986416985,14.118672275845384,210.17885087529575,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,14,11,140,16,1077.8132432445295,27.96390715771164,27.359613553261624,226.69109647802196,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,14,11,140,20,1133.3687987987694,28.737844511919583,39.56615064897111,243.63457780252278,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,14,11,150,12,1022.2576876902896,28.41983361971565,13.180503366169036,210.17885087529575,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,14,11,150,16,1077.8132432445295,28.707360205446392,25.7202167725211,226.69109647802196,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,14,11,150,20,1133.3687987987694,29.42014089352799,37.41015170458855,243.63457780252278,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.6,16,9,120,12,1022.2351413403135,28.55722267928384,13.03635722971456,210.17223871507593,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,16,9,120,16,1077.7906968945533,29.224199679448972,24.691489006953347,226.68430702078916,False,less than 20% continuous hover power headroom
+winged,1.6,16,9,120,20,1133.3462524487934,30.30483746990481,34.94083739726733,243.62761556177296,False,less than 20% continuous hover power headroom
+winged,1.6,16,9,130,12,1022.2351413403135,28.74853385615726,12.840418802488507,210.17223871507593,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,16,9,130,16,1077.7906968945533,29.305587154612112,24.53697823358224,226.68430702078916,False,less than 20% continuous hover power headroom
+winged,1.6,16,9,130,20,1133.3462524487934,30.28286508717317,34.99819748074497,243.62761556177296,False,less than 20% continuous hover power headroom
+winged,1.6,16,9,140,12,1022.2351413403135,29.229944638895283,12.372473214020387,210.17223871507593,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,16,9,140,16,1077.7906968945533,29.68405976407876,23.843149958067215,226.68430702078916,False,less than 20% continuous hover power headroom
+winged,1.6,16,9,140,20,1133.3462524487934,30.571786852112602,34.25867708214472,243.62761556177296,False,less than 20% continuous hover power headroom
+winged,1.6,16,9,150,12,1022.2351413403135,29.963488901674197,11.721575609807514,210.17223871507593,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,16,9,150,16,1077.7906968945533,30.3130331029777,22.772989864286256,226.68430702078916,False,less than 20% continuous hover power headroom
+winged,1.6,16,9,150,20,1133.3462524487934,31.11768209859428,32.94344455525751,243.62761556177296,False,less than 20% continuous hover power headroom
+winged,1.6,16,10,120,12,1028.7979623744966,27.765717288605963,13.83211824580923,212.09999017032044,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,16,10,120,16,1084.3535179287364,28.331763956214317,26.600096087118658,228.66358618194474,False,less than 20% continuous hover power headroom; wing spar deflection proxy
+winged,1.6,16,10,120,20,1139.9090734829765,29.30793530055764,37.94294502292517,245.6571145902141,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,16,10,130,12,1028.7979623744966,28.09351464675963,13.451608726802222,212.09999017032044,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,16,10,130,16,1084.3535179287364,28.566101816941572,26.086033904900084,228.66358618194474,False,less than 20% continuous hover power headroom; wing spar deflection proxy
+winged,1.6,16,10,130,20,1139.9090734829765,29.4565311692127,37.48910087881965,245.6571145902141,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,16,10,140,12,1028.7979623744966,28.67896982597192,12.821654345482825,212.09999017032044,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,16,10,140,16,1084.3535179287364,29.061793435517934,25.061540135566194,228.66358618194474,False,less than 20% continuous hover power headroom; wing spar deflection proxy
+winged,1.6,16,10,140,20,1139.9090734829765,29.87635988656333,36.263604380254755,245.6571145902141,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,16,10,150,12,1028.7979623744966,29.493131608570355,12.037692070974686,212.09999017032044,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,16,10,150,16,1084.3535179287364,29.782415266449195,23.70793841838731,228.66358618194474,False,less than 20% continuous hover power headroom; wing spar deflection proxy
+winged,1.6,16,10,150,20,1139.9090734829765,30.5249228645957,34.52034431652909,245.6571145902141,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,16,11,120,12,1035.1029447643418,27.219502005888714,14.439326383434523,213.95780514261344,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,16,11,120,16,1090.658500318582,27.706315177713293,28.17572549375387,230.57075389106132,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,16,11,120,20,1146.2140558728217,28.6040325245547,40.482159652935394,247.61238972604247,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,16,11,130,12,1035.1029447643418,27.64676854838598,13.894141780193404,213.95780514261344,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,16,11,130,16,1090.658500318582,28.05217684020404,27.326540952588353,230.57075389106132,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,16,11,130,20,1146.2140558728217,28.876939854714397,39.53895065760768,247.61238972604247,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,16,11,140,12,1035.1029447643418,28.308351745254086,13.126712771373597,213.95780514261344,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,16,11,140,16,1090.658500318582,28.633683266411154,26.00859974529717,230.57075389106132,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,16,11,140,20,1146.2140558728217,29.392575097329676,37.87175311255692,247.61238972604247,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,16,11,150,12,1035.1029447643418,29.181681648810237,12.234656730059633,213.95780514261344,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,16,11,150,16,1090.658500318582,29.42160407240989,24.413218563072025,230.57075389106132,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,16,11,150,20,1146.2140558728217,30.11651423995574,35.7550553815237,247.61238972604247,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,18,9,120,12,1033.4814260124974,29.196949904084168,12.243944669762763,213.4794693134806,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,18,9,120,16,1089.0369815667373,29.831977057989675,23.64774188496038,230.079739517002,False,less than 20% continuous hover power headroom
+winged,1.6,18,9,120,20,1144.5925371209773,30.90413474604504,33.672043524879705,247.1090160422096,False,less than 20% continuous hover power headroom
+winged,1.6,18,9,130,12,1033.4814260124974,29.415877827690117,12.039710515656955,213.4794693134806,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,18,9,130,16,1089.0369815667373,29.937407318159586,23.46162713842676,230.079739517002,False,less than 20% continuous hover power headroom
+winged,1.6,18,9,130,20,1144.5925371209773,30.903726698569173,33.67304107847357,247.1090160422096,False,less than 20% continuous hover power headroom
+winged,1.6,18,9,140,12,1033.4814260124974,29.93522017364561,11.581439761363658,213.4794693134806,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,18,9,140,16,1089.0369815667373,30.349422666369605,22.761557565449177,230.079739517002,False,less than 20% continuous hover power headroom
+winged,1.6,18,9,140,20,1144.5925371209773,31.2234542126513,32.90911337359369,247.1090160422096,False,less than 20% continuous hover power headroom
+winged,1.6,18,9,150,12,1033.4814260124974,30.716855110070064,10.953922073260557,213.4794693134806,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,18,9,150,16,1089.0369815667373,31.020786970833964,21.706171962740328,230.079739517002,False,less than 20% continuous hover power headroom
+winged,1.6,18,9,150,20,1144.5925371209773,31.808474871705684,31.597476806249652,247.1090160422096,False,less than 20% continuous hover power headroom
+winged,1.6,18,10,120,12,1040.7781485385708,28.40557906831881,12.93970240443068,215.63489715311084,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,18,10,120,16,1096.3337040928109,28.936527590950675,25.425546626778203,232.29214392460062,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,18,10,120,20,1151.8892596470507,29.9025821118719,36.508554119233345,249.37696607034053,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,18,10,130,12,1040.7781485385708,28.76356568864699,12.562912722464858,215.63489715311084,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,18,10,130,16,1096.3337040928109,29.197729829747608,24.894150185588504,232.29214392460062,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,18,10,130,20,1151.8892596470507,30.075788516487926,36.01429148640473,249.37696607034053,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,18,10,140,12,1040.7781485385708,29.38874139996279,11.954975539471347,215.63489715311084,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,18,10,140,16,1096.3337040928109,29.729001591611265,23.879058253904034,232.29214392460062,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,18,10,140,20,1151.8892596470507,30.5286519036718,34.783075111112375,249.37696607034053,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,18,10,150,12,1040.7781485385708,30.252199411151686,11.206015398748885,215.63489715311084,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.6,18,10,150,16,1096.3337040928109,30.49349223451269,22.555577981734302,232.29214392460062,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,18,10,150,20,1151.8892596470507,31.217996415527146,33.06253512476855,249.37696607034053,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,18,11,120,12,1047.788199062706,27.864188384469344,13.454764295953415,217.71277211953583,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,18,11,120,16,1103.3437546169462,28.312600357940994,26.882709175518556,234.42457398031564,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,18,11,120,20,1158.899310171186,29.19863951805974,38.89787139744864,251.5625898918726,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,18,11,130,12,1047.788199062706,28.323568911764056,12.925596367970982,217.71277211953583,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,18,11,130,16,1103.3437546169462,28.687442477222305,26.031177459554815,234.42457398031564,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,18,11,130,20,1158.899310171186,29.498442867787134,37.93167920109926,251.5625898918726,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,18,11,140,12,1047.788199062706,29.02622427884718,12.192151368123795,217.71277211953583,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,18,11,140,16,1103.3437546169462,29.306069590195087,24.737958065337143,234.42457398031564,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,18,11,140,20,1158.899310171186,30.048798143098086,36.277503143895665,251.5625898918726,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,18,11,150,12,1047.788199062706,29.94977198890556,11.345948055524827,217.71277211953583,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,18,11,150,16,1103.3437546169462,30.138985487666854,23.187016389061274,234.42457398031564,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.6,18,11,150,20,1158.899310171186,30.814779764269716,34.20162607369386,251.5625898918726,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,12,9,120,12,999.2944169735495,26.35059500979735,16.249968712129487,195.23995100826187,False,mission energy; cell current proxy; loaded voltage below motor published range; stall margin / full wing support
+winged,1.7,12,9,120,16,1054.8499725277893,26.831708464939368,29.30947399324747,210.60999569898883,False,stall margin / full wing support
+winged,1.7,12,9,120,20,1110.4055280820294,27.690011487520426,41.189055865589694,226.39030624920773,False,less than 20% continuous hover power headroom; stall margin / full wing support
+winged,1.7,12,9,130,12,999.2944169735495,27.285122409021305,15.029906322603708,195.23995100826187,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,12,9,130,16,1054.8499725277893,27.61000752244908,27.474505890038618,210.60999569898883,False,stall margin / full wing support
+winged,1.7,12,9,130,20,1110.4055280820294,28.226787199477474,39.41435197259158,226.39030624920773,False,less than 20% continuous hover power headroom; stall margin / full wing support
+winged,1.7,12,9,140,12,999.2944169735495,27.662663263999015,14.587439714905877,195.23995100826187,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,12,9,140,16,1054.8499725277893,28.1778699822424,26.27431968785072,210.60999569898883,True,
+winged,1.7,12,9,140,20,1110.4055280820294,29.05125082052139,36.96784297995249,226.39030624920773,False,less than 20% continuous hover power headroom
+winged,1.7,12,9,150,12,999.2944169735495,28.277429615995707,13.920150226773574,195.23995100826187,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,12,9,150,16,1054.8499725277893,28.69732359043484,25.26474765384606,210.60999569898883,True,
+winged,1.7,12,9,150,20,1110.4055280820294,29.493458842769464,35.77674265657638,226.39030624920773,False,less than 20% continuous hover power headroom
+winged,1.7,12,10,120,12,1004.3601896643402,25.790384966586693,17.052401593960337,196.62416234631212,False,mission energy; cell current proxy; loaded voltage below motor published range; stall margin / full wing support; spar depth / wing envelope
+winged,1.7,12,10,120,16,1059.91574521858,26.284622572811543,30.848613598760195,212.032069433623,False,stall margin / full wing support; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,12,10,120,20,1115.47130077282,27.154460291937554,43.31997163947072,227.84926011404798,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,12,10,130,12,1004.3601896643402,26.616610175792175,15.845268966923589,196.62416234631212,False,mission energy; cell current proxy; loaded voltage below motor published range; spar depth / wing envelope
+winged,1.7,12,10,130,16,1059.91574521858,26.905010900141725,29.202881831852118,212.032069433623,False,stall margin / full wing support; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,12,10,130,20,1115.47130077282,27.548879095773792,41.85781623563652,227.84926011404798,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,12,10,140,12,1004.3601896643402,27.093968940236454,15.222672296577898,196.62416234631212,False,mission energy; cell current proxy; loaded voltage below motor published range; spar depth / wing envelope
+winged,1.7,12,10,140,16,1059.91574521858,27.545900083632986,27.677529907661842,212.032069433623,False,wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,12,10,140,20,1115.47130077282,28.35011489518878,39.1719562759412,227.84926011404798,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,12,10,150,12,1004.3601896643402,27.78646983577855,14.401757451672157,196.62416234631212,False,mission energy; cell current proxy; loaded voltage below motor published range; spar depth / wing envelope
+winged,1.7,12,10,150,16,1059.91574521858,28.15345778218938,26.371698724877703,212.032069433623,False,wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,12,10,150,20,1115.47130077282,28.890935585690062,37.545804186236204,227.84926011404798,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,12,11,120,12,1009.2269394111387,25.41136403967842,17.64667414970886,197.95728317030483,False,mission energy; cell current proxy; loaded voltage below motor published range; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,12,11,120,16,1064.7824949653786,25.912762754298196,32.0337610138854,213.401477680526,False,stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,12,11,120,20,1120.3380505196185,26.7911490845297,44.968476496706444,229.25401872587838,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,12,11,130,12,1009.2269394111387,26.148364990492674,16.474986626045382,197.95728317030483,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,12,11,130,16,1064.7824949653786,26.415397699305345,30.575976133748572,213.401477680526,False,stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,12,11,130,20,1120.3380505196185,27.079082308566967,43.804585020322115,229.25401872587838,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,12,11,140,12,1009.2269394111387,26.69873983370372,15.69668590345179,197.95728317030483,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,12,11,140,16,1064.7824949653786,27.101191852160188,28.788479095941263,213.401477680526,False,wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,12,11,140,20,1120.3380505196185,27.853415616177976,40.953982809214004,229.25401872587838,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,12,11,150,12,1009.2269394111387,27.44826049572272,14.747880790831456,197.95728317030483,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,12,11,150,16,1064.7824949653786,27.773415234644954,27.22819497485531,213.401477680526,False,wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,12,11,150,20,1120.3380505196185,28.46660860845493,38.94692683628514,229.25401872587838,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,14,9,120,12,1010.8470040318791,27.791710785163737,14.335025251098074,198.4017725099018,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,14,9,120,16,1066.402559586119,27.998104412819494,26.760578311982542,213.85802762918073,False,stall margin / full wing support
+winged,1.7,14,9,120,20,1121.958115140359,28.6563080958047,38.40937087752374,229.72231877730192,False,less than 20% continuous hover power headroom; stall margin / full wing support
+winged,1.7,14,9,130,12,1010.8470040318791,27.921195911635763,14.19044259463177,198.4017725099018,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,14,9,130,16,1066.402559586119,28.504231364913004,25.726853402684444,213.85802762918073,True,
+winged,1.7,14,9,130,20,1121.958115140359,29.45376832611447,36.13525263795494,229.72231877730192,False,less than 20% continuous hover power headroom
+winged,1.7,14,9,140,12,1010.8470040318791,28.335760071540093,13.746544631405586,198.4017725099018,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,14,9,140,16,1066.402559586119,28.819398705299925,25.122550124351157,213.85802762918073,True,
+winged,1.7,14,9,140,20,1121.958115140359,29.682168198802863,35.53270560928794,229.72231877730192,False,less than 20% continuous hover power headroom
+winged,1.7,14,9,150,12,1010.8470040318791,28.997180805606966,13.093090035345615,198.4017725099018,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,14,9,150,16,1066.402559586119,29.380278409978263,24.114515749392034,213.85802762918073,True,
+winged,1.7,14,9,150,20,1121.958115140359,30.162766415667495,34.32823119829878,229.72231877730192,False,less than 20% continuous hover power headroom
+winged,1.7,14,10,120,12,1016.66666666272,26.95330344476219,15.298029019703833,200.00142241813955,False,mission energy; cell current proxy; loaded voltage below motor published range; stall margin / full wing support
+winged,1.7,14,10,120,16,1072.2222222169598,27.186439978461717,28.687456734342053,215.50092472703986,False,stall margin / full wing support; wing spar deflection proxy
+winged,1.7,14,10,120,20,1127.7777777712,27.87206964262118,41.13839019998348,231.4073534684483,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,14,10,130,12,1016.66666666272,27.25287348945232,14.917549157283727,200.00142241813955,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,14,10,130,16,1072.2222222169598,27.758295356345794,27.347483956197774,215.50092472703986,False,wing spar deflection proxy
+winged,1.7,14,10,130,20,1127.7777777712,28.62453331986615,38.6679119942223,231.4073534684483,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,14,10,140,12,1016.66666666272,27.769040683583523,14.304546572084096,200.00142241813955,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,14,10,140,16,1072.2222222169598,28.18774925923919,26.42069982504474,215.50092472703986,False,wing spar deflection proxy
+winged,1.7,14,10,140,20,1127.7777777712,28.980461039220643,37.59985082289023,231.4073534684483,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,14,10,150,12,1016.66666666272,28.509428216500723,13.508323116331246,200.00142241813955,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,14,10,150,16,1072.2222222169598,28.838209060303107,25.130756349216924,215.50092472703986,False,wing spar deflection proxy
+winged,1.7,14,10,150,20,1127.7777777712,29.561313290667712,35.97808796478418,231.4073534684483,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,14,11,120,12,1022.2576876902896,26.364045902594796,16.063344163708415,201.54254411986858,False,mission energy; cell current proxy; loaded voltage below motor published range; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,14,11,120,16,1077.8132432445295,26.625871418671068,30.2360206381041,217.08348115772858,False,stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,14,11,120,20,1133.3687987987694,27.330512475605445,43.34118382572354,233.03028711019994,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,14,11,130,12,1022.2576876902896,26.788660787891157,15.468145540761432,201.54254411986858,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,14,11,130,16,1077.8132432445295,27.233421477168278,28.653523458826598,217.08348115772858,False,wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,14,11,130,20,1133.3687987987694,28.037094200150097,40.753965156913424,233.03028711019994,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,14,11,140,12,1022.2576876902896,27.379196035447304,14.71010516058363,201.54254411986858,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,14,11,140,16,1077.8132432445295,27.74658018489016,27.44047119715891,217.08348115772858,False,wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,14,11,140,20,1133.3687987987694,28.486405517712143,39.26355122465854,233.03028711019994,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,14,11,150,12,1022.2576876902896,28.177546514275775,13.796081165135977,201.54254411986858,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,14,11,150,16,1077.8132432445295,28.46283269656732,25.909473554443114,217.08348115772858,False,wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,14,11,150,20,1133.3687987987694,29.140882290561194,37.27775942363544,233.03028711019994,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.7,16,9,120,12,1022.2351413403135,28.403000783612462,13.558415345125423,201.53632091024994,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,16,9,120,16,1077.7906968945533,29.066641975017404,24.745420765667454,217.077091080333,True,
+winged,1.7,16,9,120,20,1133.3462524487934,30.109958326396892,34.68017185701978,233.02373441302362,False,less than 20% continuous hover power headroom
+winged,1.7,16,9,130,12,1022.2351413403135,28.56003865774606,13.397497029656174,201.53632091024994,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,16,9,130,16,1077.7906968945533,29.113891004256324,24.658743482667088,217.077091080333,True,
+winged,1.7,16,9,130,20,1133.3462524487934,30.054626439503238,34.81867555120728,233.02373441302362,False,less than 20% continuous hover power headroom
+winged,1.7,16,9,140,12,1022.2351413403135,29.01221896289333,12.954772515393232,201.53632091024994,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,16,9,140,16,1077.7906968945533,29.462403446267167,24.03769059642395,217.077091080333,True,
+winged,1.7,16,9,140,20,1133.3462524487934,30.313708022865246,34.179519173045115,233.02373441302362,False,less than 20% continuous hover power headroom
+winged,1.7,16,9,150,12,1022.2351413403135,29.721140118277567,12.316671335928891,201.53632091024994,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,16,9,150,16,1077.7906968945533,30.065264753296972,23.034163263079236,217.077091080333,True,
+winged,1.7,16,9,150,20,1133.3462524487934,30.83312126244487,32.96629381860485,233.02373441302362,False,less than 20% continuous hover power headroom
+winged,1.7,16,10,120,12,1028.7979623744966,27.59974756560229,14.380254024550759,203.35067522106831,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,16,10,120,16,1084.3535179287364,28.167679177598494,26.587081401765133,218.93994205553827,False,less than 20% continuous hover power headroom; wing spar deflection proxy
+winged,1.7,16,10,120,20,1139.9090734829765,29.109372110981802,37.537955434239485,234.9338511456741,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,16,10,130,12,1028.7979623744966,27.892168960635672,14.04168467904301,203.35067522106831,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,16,10,130,16,1084.3535179287364,28.36637375687468,26.168212476588142,218.93994205553827,False,less than 20% continuous hover power headroom; wing spar deflection proxy
+winged,1.7,16,10,130,20,1139.9090734829765,29.222694332439957,37.20813917662874,234.9338511456741,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,16,10,140,12,1028.7979623744966,28.447715487942787,13.440500146195312,203.35067522106831,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,16,10,140,16,1084.3535179287364,28.831170985216833,25.238087246269092,218.93994205553827,False,less than 20% continuous hover power headroom; wing spar deflection proxy
+winged,1.7,16,10,140,20,1139.9090734829765,29.611484296420794,36.11935598040774,234.9338511456741,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,16,10,150,12,1028.7979623744966,29.236804764054938,12.670003050744771,203.35067522106831,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,16,10,150,16,1084.3535179287364,29.525070517475527,23.966336265431824,218.93994205553827,False,less than 20% continuous hover power headroom; wing spar deflection proxy
+winged,1.7,16,10,150,20,1139.9090734829765,30.23277920799552,34.505820327189596,234.9338511456741,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,16,11,120,12,1035.1029447643418,27.0411137067572,15.014675858360317,205.09920695969703,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,16,11,120,16,1090.658500318582,27.53439368214982,28.102722897652818,220.73492342882443,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,16,11,120,20,1146.2140558728217,28.399913383970933,39.94290357371576,236.77411009704196,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,16,11,130,12,1035.1029447643418,27.432318635938483,14.517787992212076,205.09920695969703,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,16,11,130,16,1090.658500318582,27.843659428625024,27.376253942511788,220.73492342882443,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,16,11,130,20,1146.2140558728217,28.636325870582894,39.16829192004604,236.77411009704196,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,16,11,140,12,1035.1029447643418,28.06356848463042,13.781840839373276,205.09920695969703,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,16,11,140,16,1090.658500318582,28.39367582629676,26.172976990245747,220.73492342882443,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,16,11,140,20,1146.2140558728217,29.120151957927657,37.673107676346355,236.77411009704196,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,16,11,150,12,1035.1029447643418,28.911540770231994,12.903176144078031,205.09920695969703,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,16,11,150,16,1090.658500318582,29.154481538023745,24.67291187276323,220.73492342882443,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,16,11,150,20,1146.2140558728217,29.81631314472056,35.71160042696555,236.77411009704196,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,18,9,120,12,1033.4814260124974,29.01730462524268,12.820610672976319,204.64900853227783,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,18,9,120,16,1089.0369815667373,29.653598123776725,23.76997696812431,220.27279225323915,False,less than 20% continuous hover power headroom
+winged,1.7,18,9,120,20,1144.5925371209773,30.689802838880887,33.492186428378346,236.30034662990514,False,less than 20% continuous hover power headroom
+winged,1.7,18,9,130,12,1033.4814260124974,29.202284156412446,12.646578520084333,204.64900853227783,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,18,9,130,16,1089.0369815667373,29.7251758767923,23.647375591106687,220.27279225323915,False,less than 20% continuous hover power headroom
+winged,1.7,18,9,130,20,1144.5925371209773,30.656328145142403,33.57090856386219,236.30034662990514,False,less than 20% continuous hover power headroom
+winged,1.7,18,9,140,12,1033.4814260124974,29.69266887715262,12.20728663708705,204.64900853227783,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,18,9,140,16,1089.0369815667373,30.107424342970216,23.013481644350687,220.27279225323915,False,less than 20% continuous hover power headroom
+winged,1.7,18,9,140,20,1144.5925371209773,30.94639201277318,32.90081258461075,236.30034662990514,False,less than 20% continuous hover power headroom
+winged,1.7,18,9,150,12,1033.4814260124974,30.449946763576076,11.585809899778493,204.64900853227783,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,18,9,150,16,1089.0369815667373,30.75281786559504,22.01699704661565,220.27279225323915,False,less than 20% continuous hover power headroom
+winged,1.7,18,9,150,20,1144.5925371209773,31.505034187502737,31.682838394612542,236.30034662990514,False,less than 20% continuous hover power headroom
+winged,1.7,18,10,120,12,1040.7781485385708,28.212278048321952,13.554553302228019,206.67764649898868,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,18,10,120,16,1096.3337040928109,28.750419585557175,25.49605975617754,222.3550552250967,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,18,10,120,20,1151.8892596470507,29.683622377463294,36.20329485024637,238.43488783285196,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,18,10,130,12,1040.7781485385708,28.535148016357205,13.212587665108437,206.67764649898868,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,18,10,130,16,1096.3337040928109,28.97619010364115,25.052672900563277,222.3550552250967,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,18,10,130,20,1151.8892596470507,29.821763532425678,35.8263264443262,238.43488783285196,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,18,10,140,12,1040.7781485385708,29.13064226554171,12.625121646601922,206.67764649898868,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,18,10,140,16,1096.3337040928109,29.47671056293715,24.122658817620287,222.3550552250967,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,18,10,140,20,1151.8892596470507,30.24370800230262,34.72200903671506,238.43488783285196,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,18,10,150,12,1040.7781485385708,29.96925929392637,11.881177296345054,206.67764649898868,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.7,18,10,150,16,1096.3337040928109,30.21458448260173,22.871013734734923,222.3550552250967,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,18,10,150,20,1151.8892596470507,30.90584817329308,33.11995903203158,238.43488783285196,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,18,11,120,12,1047.788199062706,27.656483494515896,14.108693690958132,208.6332935262122,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,18,11,120,16,1103.3437546169462,28.117382313308923,26.907905142085497,224.36204821871087,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,18,11,120,20,1158.899310171186,28.973099102047605,38.476662099621315,240.49194554723505,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,18,11,130,12,1047.788199062706,28.080016934603936,13.618290364854333,208.6332935262122,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,18,11,130,16,1103.3437546169462,28.45578906645359,26.1688369648945,224.36204821871087,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,18,11,130,20,1158.899310171186,29.236557898362754,37.668666112299604,240.49194554723505,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,18,11,140,12,1047.788199062706,28.75253464049908,12.905973248824116,208.6332935262122,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,18,11,140,16,1103.3437546169462,29.043034516629145,24.978286269556826,224.36204821871087,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,18,11,140,20,1158.899310171186,29.755184542677227,36.17331808086978,240.49194554723505,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,18,11,150,12,1047.788199062706,29.650932164865033,12.063077738814965,208.6332935262122,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,18,11,150,16,1103.3437546169462,29.848915998153018,23.51045536321151,224.36204821871087,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.7,18,11,150,20,1158.899310171186,30.49342411719304,34.23858799389245,240.49194554723505,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,12,9,120,12,999.2944169735495,26.587445670042385,16.07884953783197,189.08737686419772,False,mission energy; loaded voltage below motor published range; stall margin / full wing support
+winged,1.8,12,9,120,16,1054.8499725277893,27.023189287874608,28.493719936601792,203.6035301832176,False,stall margin / full wing support
+winged,1.8,12,9,120,20,1110.4055280820294,27.81105423037389,39.935795639609125,218.5071568139799,False,stall margin / full wing support
+winged,1.8,12,9,130,12,999.2944169735495,27.47514519317104,14.989773404428725,189.08737686419772,False,mission energy; loaded voltage below motor published range
+winged,1.8,12,9,130,16,1054.8499725277893,27.76973435985483,26.865956615562357,203.6035301832176,False,stall margin / full wing support
+winged,1.8,12,9,130,20,1110.4055280820294,28.345931101039326,38.30322483457633,218.5071568139799,False,stall margin / full wing support
+winged,1.8,12,9,140,12,999.2944169735495,27.81428738095518,14.611662898436496,189.08737686419772,False,mission energy; loaded voltage below motor published range
+winged,1.8,12,9,140,16,1054.8499725277893,28.296535283422187,25.824907139138503,203.6035301832176,True,
+winged,1.8,12,9,140,20,1110.4055280820294,29.12508679164381,36.15047239598441,218.5071568139799,True,
+winged,1.8,12,9,150,12,999.2944169735495,28.39722010480059,14.004469612441692,189.08737686419772,False,mission energy; loaded voltage below motor published range
+winged,1.8,12,9,150,16,1054.8499725277893,28.782249375513437,24.934073768742643,203.6035301832176,True,
+winged,1.8,12,9,150,20,1110.4055280820294,29.53291551026863,35.11739097592819,218.5071568139799,True,
+winged,1.8,12,10,120,12,1004.3601896643402,26.019411554311795,16.835994058071645,190.39468757235628,False,mission energy; loaded voltage below motor published range; stall margin / full wing support; spar depth / wing envelope
+winged,1.8,12,10,120,16,1059.91574521858,26.469451053709058,29.911032720922712,204.9465998214832,False,stall margin / full wing support; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,12,10,120,20,1115.47130077282,27.268586429610608,41.90096197988799,219.88505768632902,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,12,10,130,12,1004.3601896643402,26.797374157961805,15.773657663017197,190.39468757235628,False,mission energy; loaded voltage below motor published range; spar depth / wing envelope
+winged,1.8,12,10,130,16,1059.91574521858,27.059429882046416,28.47246352789327,204.9465998214832,False,stall margin / full wing support; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,12,10,130,20,1115.47130077282,27.664965318373877,40.55230439921606,219.88505768632902,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,12,10,140,12,1004.3601896643402,27.23602671799498,15.231738246549604,190.39468757235628,False,mission energy; loaded voltage below motor published range; spar depth / wing envelope
+winged,1.8,12,10,140,16,1059.91574521858,27.657961583819777,27.147860662158056,204.9465998214832,False,wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,12,10,140,20,1115.47130077282,28.418923157314904,38.212803835881765,219.88505768632902,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,12,10,150,12,1004.3601896643402,27.896506466347482,14.482557841515657,190.39468757235628,False,mission energy; loaded voltage below motor published range; spar depth / wing envelope
+winged,1.8,12,10,150,16,1059.91574521858,28.231446609364184,25.989373106118524,204.9465998214832,False,wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,12,10,150,20,1115.47130077282,28.92487840672363,36.78855652270564,219.88505768632902,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,12,11,120,12,1009.2269394111387,25.632314764770648,17.397475395058297,191.65374612834935,False,mission energy; cell current proxy; loaded voltage below motor published range; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,12,11,120,16,1064.7824949653786,26.090337580839126,31.000167158783512,206.23992983244713,False,stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,12,11,120,20,1120.3380505196185,26.89769793116605,43.41928304101935,221.21177415305775,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,12,11,130,12,1009.2269394111387,26.320253543624318,16.37945456879427,191.65374612834935,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,12,11,130,16,1064.7824949653786,26.564530395533474,29.7420657608308,206.23992983244713,False,stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,12,11,130,20,1120.3380505196185,27.191494856603562,42.33421895393276,221.21177415305775,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,12,11,140,12,1009.2269394111387,26.83175230933571,15.69653580470707,191.65374612834935,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,12,11,140,16,1064.7824949653786,27.20669091802292,28.192622356548508,206.23992983244713,False,wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,12,11,140,20,1120.3380505196185,27.9169088014907,39.87385358807995,221.21177415305775,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,12,11,150,12,1009.2269394111387,27.549148281942482,14.829361489491822,191.65374612834935,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,12,11,150,16,1064.7824949653786,27.84464065092954,26.80532814915576,206.23992983244713,False,wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,12,11,150,20,1120.3380505196185,28.4949334261727,38.10904907468675,221.21177415305775,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,14,9,120,12,1010.8470040318791,28.00922208431723,14.308409403060823,192.07354161574648,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,14,9,120,16,1066.402559586119,28.188616863407688,26.12599284545131,206.67111589506547,False,stall margin / full wing support
+winged,1.8,14,9,120,20,1121.958115140359,28.803253719235805,37.26679247823031,221.65405753495773,False,less than 20% continuous hover power headroom; stall margin / full wing support
+winged,1.8,14,9,130,12,1010.8470040318791,28.093163653200747,14.21942470366981,192.07354161574648,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,14,9,130,16,1066.402559586119,28.646458526479368,25.25523357698892,206.67111589506547,True,
+winged,1.8,14,9,130,20,1121.958115140359,29.551865812055794,35.28655198799451,221.65405753495773,False,less than 20% continuous hover power headroom
+winged,1.8,14,9,140,12,1010.8470040318791,28.469692961406363,13.833521457283398,192.07354161574648,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,14,9,140,16,1066.402559586119,28.922395408602625,24.757915976790024,206.67111589506547,True,
+winged,1.8,14,9,140,20,1121.958115140359,29.74085429551306,34.81946632867833,221.65405753495773,False,less than 20% continuous hover power headroom
+winged,1.8,14,9,150,12,1010.8470040318791,29.099682147882397,13.232655338855455,192.07354161574648,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,14,9,150,16,1066.402559586119,29.44976276725439,23.859958807442535,206.67111589506547,True,
+winged,1.8,14,9,150,20,1121.958115140359,30.18723765797443,33.76383625398231,221.65405753495773,False,less than 20% continuous hover power headroom
+winged,1.8,14,10,120,12,1016.66666666272,27.160754377824368,15.23080425186097,193.5843220846377,False,mission energy; cell current proxy; loaded voltage below motor published range; stall margin / full wing support
+winged,1.8,14,10,120,16,1072.2222222169598,27.371773250946394,27.90546512613436,208.22274093193246,False,stall margin / full wing support; wing spar deflection proxy
+winged,1.8,14,10,120,20,1127.7777777712,28.01565111411945,39.76630684307436,223.2454791877071,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,14,10,130,12,1016.66666666272,27.41417036912278,14.926963259663708,193.5843220846377,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,14,10,130,16,1072.2222222169598,27.89345143942729,26.77505843332345,208.22274093193246,False,wing spar deflection proxy
+winged,1.8,14,10,130,20,1127.7777777712,28.717527816788696,37.64406791863441,223.2454791877071,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,14,10,140,12,1016.66666666272,27.891959326013556,14.385882454673371,193.5843220846377,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,14,10,140,16,1072.2222222169598,28.283092018408666,25.988751031227057,208.22274093193246,False,wing spar deflection proxy
+winged,1.8,14,10,140,20,1127.7777777712,29.033224576906555,36.761632158338756,223.2454791877071,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,14,10,150,12,1016.66666666272,28.60069900392992,13.651821853276774,193.5843220846377,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,14,10,150,16,1072.2222222169598,28.89967788396024,24.83463594111681,208.22274093193246,False,wing spar deflection proxy
+winged,1.8,14,10,150,20,1127.7777777712,29.579344134598607,35.32899744748931,223.2454791877071,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,14,11,120,12,1022.2576876902896,26.561647761067174,15.962732862913292,195.03982591404852,False,mission energy; cell current proxy; loaded voltage below motor published range; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,14,11,120,16,1077.8132432445295,26.8056796690878,29.3260513565214,209.71737756091625,False,stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,14,11,120,20,1133.3687987987694,27.469616487309693,41.77110316735522,224.77824984936143,False,less than 20% continuous hover power headroom; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,14,11,130,12,1022.2576876902896,26.939661636156696,15.464738953947487,195.03982591404852,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,14,11,130,16,1077.8132432445295,27.361310577279255,27.995240373498202,209.71737756091625,False,wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,14,11,130,20,1133.3687987987694,28.12437187915492,39.576045993859346,224.77824984936143,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,14,11,140,12,1022.2576876902896,27.491624187383255,14.790963592802282,195.03982591404852,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,14,11,140,16,1077.8132432445295,27.834301326328614,26.953997089737438,209.71737756091625,False,wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,14,11,140,20,1133.3687987987694,28.532940729817355,38.31950699032457,224.77824984936143,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,14,11,150,12,1022.2576876902896,28.258203247290567,13.947042219517446,195.03982591404852,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,14,11,150,16,1077.8132432445295,28.516459207872366,25.581755401139137,209.71737756091625,False,wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,14,11,150,20,1133.3687987987694,29.152359874030548,36.55969796032821,224.77824984936143,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.8,16,9,120,12,1022.2351413403135,28.60173334260209,13.599531586259621,195.03394843829756,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,16,9,120,16,1077.7906968945533,29.238288037464777,24.273956217466136,209.7113424878204,True,
+winged,1.8,16,9,120,20,1133.3462524487934,30.23762809176108,33.83667609975685,224.7720611909171,False,less than 20% continuous hover power headroom
+winged,1.8,16,9,130,12,1022.2351413403135,28.713601470736016,13.490012913699076,195.03394843829756,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,16,9,130,16,1077.7906968945533,29.240052696487815,24.270923238582736,209.7113424878204,True,
+winged,1.8,16,9,130,20,1133.3462524487934,30.137278804104966,34.071283579961545,224.7720611909171,False,less than 20% continuous hover power headroom
+winged,1.8,16,9,140,12,1022.2351413403135,29.12811682325256,13.099135037883075,195.03394843829756,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,16,9,140,16,1077.7906968945533,29.549580672317994,23.750401484815402,209.7113424878204,True,
+winged,1.8,16,9,140,20,1133.3462524487934,30.357155942926152,33.56141273670895,224.7720611909171,False,less than 20% continuous hover power headroom
+winged,1.8,16,9,150,12,1022.2351413403135,29.806017341692765,12.506496699892834,195.03394843829756,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,16,9,150,16,1077.7906968945533,30.11915694780494,22.848693444362357,209.7113424878204,True,
+winged,1.8,16,9,150,20,1133.3462524487934,30.842516591482635,32.488209569397114,224.7720611909171,False,less than 20% continuous hover power headroom
+winged,1.8,16,10,120,12,1028.7979623744966,27.78699289126812,14.39700517000707,196.74750528740375,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,16,10,120,16,1084.3535179287364,28.332268881783925,25.99281920934037,211.47070174218092,False,wing spar deflection proxy
+winged,1.8,16,10,120,20,1139.9090734829765,29.23250279073776,36.48488623807632,226.57606032730925,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,16,10,130,12,1028.7979623744966,28.033580341403606,14.12556814636261,196.74750528740375,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,16,10,130,16,1084.3535179287364,28.484427823974556,25.694256558302406,211.47070174218092,False,wing spar deflection proxy
+winged,1.8,16,10,130,20,1139.9090734829765,29.29938094985433,36.304390936803536,226.57606032730925,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,16,10,140,12,1028.7979623744966,28.551081506983458,13.587929389972798,196.74750528740375,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,16,10,140,16,1084.3535179287364,28.909617590277733,24.895190169839214,211.47070174218092,False,wing spar deflection proxy
+winged,1.8,16,10,140,20,1139.9090734829765,29.648101187741332,35.39144708814954,226.57606032730925,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,16,10,150,12,1028.7979623744966,29.30890384700447,12.870567327349857,196.74750528740375,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,16,10,150,16,1084.3535179287364,29.569841395606602,23.748385952340495,211.47070174218092,False,wing spar deflection proxy
+winged,1.8,16,10,150,20,1139.9090734829765,30.23479340676702,33.95489785052832,226.57606032730925,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,16,11,120,12,1035.1029447643418,27.216953630538534,15.014137153392884,198.39889637388643,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,16,11,120,16,1090.658500318582,27.691299504796262,27.399912189263343,213.16596192806233,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.8,16,11,120,20,1146.2140558728217,28.517321185083844,38.69889336109141,228.31408267026777,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,16,11,130,12,1035.1029447643418,27.561937869589947,14.599072147736429,198.39889637388643,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,16,11,130,16,1090.658500318582,27.9533849236392,26.8299487660798,213.16596192806233,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.8,16,11,130,20,1146.2140558728217,28.706397625564783,38.12782931391321,228.31408267026777,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,16,11,140,12,1035.1029447643418,28.15492244735657,13.93681970857959,198.39889637388643,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,16,11,140,16,1090.658500318582,28.46341162596464,25.786109355558022,213.16596192806233,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.8,16,11,140,20,1146.2140558728217,29.149610967533256,36.85304968965883,228.31408267026777,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,16,11,150,12,1035.1029447643418,28.971483330358467,13.117426919063703,198.39889637388643,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,16,11,150,16,1090.658500318582,29.19030069285982,24.431425732304067,213.16596192806233,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.8,16,11,150,20,1146.2140558728217,29.810822091854277,35.10217760752255,228.31408267026777,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,18,9,120,12,1033.4814260124974,29.196857641770393,12.924554398875733,197.97370897021278,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,18,9,120,16,1089.0369815667373,29.808695256523897,23.379172827544142,212.72950470667627,True,
+winged,1.8,18,9,120,20,1144.5925371209773,30.80162460871506,32.74448000225324,227.86663939574964,False,less than 20% continuous hover power headroom
+winged,1.8,18,9,130,12,1033.4814260124974,29.33704693966004,12.797736632178946,197.97370897021278,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,18,9,130,16,1089.0369815667373,29.835091741593224,23.336644640419017,212.72950470667627,True,
+winged,1.8,18,9,130,20,1144.5925371209773,30.72342264457251,32.91681152184208,227.86663939574964,False,less than 20% continuous hover power headroom
+winged,1.8,18,9,140,12,1033.4814260124974,29.790142874511417,12.404355056207152,197.97370897021278,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,18,9,140,16,1089.0369815667373,30.17860242539191,22.796985787785957,212.72950470667627,True,
+winged,1.8,18,9,140,20,1144.5925371209773,30.974488221388967,32.36987471796795,227.86663939574964,False,less than 20% continuous hover power headroom
+winged,1.8,18,9,150,12,1033.4814260124974,30.516820232860308,11.821571200127247,197.97370897021278,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,18,9,150,16,1089.0369815667373,30.79093837433467,21.894449982860305,212.72950470667627,True,
+winged,1.8,18,9,150,20,1144.5925371209773,31.499237853546877,31.28345154004558,227.86663939574964,False,less than 20% continuous hover power headroom
+winged,1.8,18,10,120,12,1040.7781485385708,28.378840026842294,13.646480488859392,199.8896448276619,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,18,10,120,16,1096.3337040928109,28.89745551861099,24.99868890698694,214.6960864023195,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.8,18,10,120,20,1151.8892596470507,29.79009678696316,35.26643642684301,229.88259497631054,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,18,10,130,12,1040.7781485385708,28.656202855679673,13.365211343529799,199.8896448276619,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,18,10,130,16,1096.3337040928109,29.07693325724825,24.669200100103673,214.6960864023195,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.8,18,10,130,20,1151.8892596470507,29.88201473904872,35.03300408976321,229.88259497631054,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,18,10,140,12,1040.7781485385708,29.21398967118258,12.833275872093157,199.8896448276619,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,18,10,140,16,1096.3337040928109,29.538051957408406,23.861188400069032,214.6960864023195,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.8,18,10,140,20,1151.8892596470507,30.264049154154055,34.09502616732495,229.88259497631054,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,18,10,150,12,1040.7781485385708,30.021728625803647,12.133937043485865,199.8896448276619,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.8,18,10,150,16,1096.3337040928109,30.24244781229674,22.724201975955886,214.6960864023195,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.8,18,10,150,20,1151.8892596470507,30.891713842334305,32.65842668956563,229.88259497631054,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,18,11,120,12,1047.788199062706,27.810095905717823,14.195133586885367,201.73664479781746,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,18,11,120,16,1103.3437546169462,28.255681477897973,26.317323961793296,216.59157978517732,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.8,18,11,120,20,1158.899310171186,29.072982299652306,37.36827686843756,231.8253717065612,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,18,11,130,12,1047.788199062706,28.187699615877833,13.77778605549452,201.73664479781746,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,18,11,130,16,1103.3437546169462,28.547109642350108,25.725351614108302,216.59157978517732,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.8,18,11,130,20,1158.899310171186,29.289278467408884,36.75444691659042,231.8253717065612,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,18,11,140,12,1047.788199062706,28.822263639640457,13.129102914041386,201.73664479781746,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,18,11,140,16,1103.3437546169462,29.09454286764857,24.682440204193355,216.59157978517732,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.8,18,11,140,20,1158.899310171186,29.76741994472182,35.46657735828168,231.8253717065612,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,18,11,150,12,1047.788199062706,29.68961680616344,12.335281583810282,201.73664479781746,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.8,18,11,150,16,1103.3437546169462,29.86668462834004,23.34741114254104,216.59157978517732,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.8,18,11,150,20,1158.899310171186,30.47081379547127,33.72799732015056,231.8253717065612,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,12,9,120,12,999.2944169735495,27.187137801958507,15.436106628515017,184.97983669486703,False,mission energy; stall margin / full wing support
+winged,1.9,12,9,120,16,1054.8499725277893,27.56276346410687,27.117037234410695,198.7319819444648,False,stall margin / full wing support
+winged,1.9,12,9,120,20,1110.4055280820294,28.279186960509534,38.00156516900286,212.85120717360803,False,stall margin / full wing support
+winged,1.9,12,9,130,12,999.2944169735495,28.01062681274737,14.52481554888267,184.97983669486703,False,mission energy
+winged,1.9,12,9,130,16,1054.8499725277893,28.255417346504377,25.763950819642496,198.7319819444648,False,stall margin / full wing support
+winged,1.9,12,9,130,20,1110.4055280820294,28.78671464900087,36.612527850634706,212.85120717360803,False,stall margin / full wing support
+winged,1.9,12,9,140,12,999.2944169735495,28.301127080929156,14.228491474264764,184.97983669486703,False,mission energy
+winged,1.9,12,9,140,16,1054.8499725277893,28.730429232792737,24.911496116035472,198.7319819444648,True,
+winged,1.9,12,9,140,20,1110.4055280820294,29.50753066672407,34.80565762386848,212.85120717360803,True,
+winged,1.9,12,9,150,12,999.2944169735495,28.844250708433975,13.705721805327075,184.97983669486703,False,mission energy
+winged,1.9,12,9,150,16,1054.8499725277893,29.17366998395643,24.165411225373486,198.7319819444648,True,
+winged,1.9,12,9,150,20,1110.4055280820294,29.871878296512776,33.95855130528522,212.85120717360803,True,
+winged,1.9,12,10,120,12,1004.3601896643402,26.611633976734264,16.11539472973394,186.21834157628038,False,mission energy; stall margin / full wing support; spar depth / wing envelope
+winged,1.9,12,10,120,16,1059.91574521858,27.002743616847248,28.376081183434195,200.00436370703224,False,stall margin / full wing support; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,12,10,120,20,1115.47130077282,27.73028742235623,39.75514467555385,214.1565869474125,False,stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,12,10,130,12,1004.3601896643402,27.322933091055823,15.244941852349058,186.21834157628038,False,mission energy; spar depth / wing envelope
+winged,1.9,12,10,130,16,1059.91574521858,27.539365056503648,27.21192931458466,200.00436370703224,False,stall margin / full wing support; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,12,10,130,20,1115.47130077282,28.10269738581615,38.62654086428926,214.1565869474125,False,stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,12,10,140,12,1004.3601896643402,27.712915957560377,14.806462754621508,186.21834157628038,False,mission energy; spar depth / wing envelope
+winged,1.9,12,10,140,16,1059.91574521858,28.084743450685618,26.122734014000173,200.00436370703224,False,wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,12,10,140,20,1115.47130077282,28.795781833567787,36.688160618847625,214.1565869474125,False,wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,12,10,150,12,1004.3601896643402,28.33359264914601,14.158342710320085,186.21834157628038,False,mission energy; spar depth / wing envelope
+winged,1.9,12,10,150,16,1059.91574521858,28.615622017536673,25.143102921108593,200.00436370703224,False,wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,12,10,150,20,1115.47130077282,29.257978245234128,35.50014089712338,214.1565869474125,False,wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,12,11,120,12,1009.2269394111387,26.21726865452026,16.617203858039726,187.4111338924844,False,mission energy; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,12,11,120,16,1064.7824949653786,26.6170671353223,29.339461089494396,201.2296237174191,False,stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,12,11,120,20,1120.3380505196185,27.352568887126512,41.10566272510135,215.4134762316818,False,stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,12,11,130,12,1009.2269394111387,26.836874627516046,15.799632316553108,187.4111338924844,False,mission energy; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,12,11,130,16,1064.7824949653786,27.03926667014295,28.34831009167941,201.2296237174191,False,stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,12,11,130,20,1120.3380505196185,27.625941476391052,40.21108958153883,215.4134762316818,False,stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,12,11,140,12,1009.2269394111387,27.299727605373306,15.239530635788315,187.4111338924844,False,mission energy; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,12,11,140,16,1064.7824949653786,27.62682709808903,27.07540103595536,201.2296237174191,False,wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,12,11,140,20,1120.3380505196185,28.288292577811674,38.1970089442091,215.4134762316818,False,wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,12,11,150,12,1009.2269394111387,27.977351938817574,14.487625522474632,187.4111338924844,False,mission energy; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,12,11,150,16,1064.7824949653786,28.222108633827972,25.897268799478788,201.2296237174191,False,wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,12,11,150,20,1120.3380505196185,28.82239978165862,36.714134172058685,215.4134762316818,False,wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,14,9,120,12,1010.8470040318791,28.589937917020173,13.856239983169433,187.80883488054482,False,mission energy; loaded voltage below motor published range
+winged,1.9,14,9,120,16,1066.402559586119,28.72205946700941,24.993906508778316,201.63811577674176,False,stall margin / full wing support
+winged,1.9,14,9,120,20,1121.958115140359,29.289007013922493,35.53894549987916,215.8324815408502,False,stall margin / full wing support
+winged,1.9,14,9,130,12,1010.8470040318791,28.61542134142202,13.83162009973991,187.80883488054482,False,mission energy; loaded voltage below motor published range
+winged,1.9,14,9,130,16,1066.402559586119,29.118185490847104,24.313403107745334,201.63811577674176,True,
+winged,1.9,14,9,130,20,1121.958115140359,29.972623695350677,33.90637855997084,215.8324815408502,True,
+winged,1.9,14,9,140,12,1010.8470040318791,28.943787646506568,13.52203263016211,187.80883488054482,False,mission energy; loaded voltage below motor published range
+winged,1.9,14,9,140,16,1066.402559586119,29.344164667555003,23.941539836220873,201.63811577674176,True,
+winged,1.9,14,9,140,20,1121.958115140359,30.111156594987975,33.59365258183272,215.8324815408502,True,
+winged,1.9,14,9,150,12,1010.8470040318791,29.534535482655677,12.998611976380094,187.80883488054482,False,mission energy; loaded voltage below motor published range
+winged,1.9,14,9,150,16,1066.402559586119,29.829377072086224,23.1803024550313,201.63811577674176,True,
+winged,1.9,14,9,150,20,1121.958115140359,30.51428272519145,32.71559026662025,215.8324815408502,True,
+winged,1.9,14,10,120,12,1016.66666666272,27.730461701427622,14.69876440005531,189.24010058791546,False,mission energy; loaded voltage below motor published range; stall margin / full wing support
+winged,1.9,14,10,120,16,1072.2222222169598,27.899613745892104,26.58487868767934,203.10807633798416,False,stall margin / full wing support; wing spar deflection proxy
+winged,1.9,14,10,120,20,1127.7777777712,28.49804415594269,37.7629874325025,217.34014415924435,False,stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,14,10,130,12,1016.66666666272,27.925323414218283,14.487295529480509,189.24010058791546,False,mission energy; loaded voltage below motor published range
+winged,1.9,14,10,130,16,1072.2222222169598,28.35745373559032,25.69574643380935,203.10807633798416,False,wing spar deflection proxy
+winged,1.9,14,10,130,20,1127.7777777712,29.132436917149114,36.04507571892294,217.34014415924435,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.9,14,10,140,12,1016.66666666272,28.354892150703932,14.041947919761926,189.24010058791546,False,mission energy; loaded voltage below motor published range
+winged,1.9,14,10,140,16,1072.2222222169598,28.69684160335752,25.074105336730717,203.10807633798416,False,wing spar deflection proxy
+winged,1.9,14,10,140,20,1127.7777777712,29.397158165518835,35.37357871460589,217.34014415924435,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.9,14,10,150,12,1016.66666666272,29.024370324093802,13.39997099131451,189.24010058791546,False,mission energy; loaded voltage below motor published range
+winged,1.9,14,10,150,16,1072.2222222169598,29.27111599844416,24.088045690095225,203.10807633798416,False,wing spar deflection proxy
+winged,1.9,14,10,150,20,1127.7777777712,29.899716984516505,34.16526144633775,217.34014415924435,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.9,14,11,120,12,1022.2576876902896,27.12138243927948,15.36351784805672,190.61899895262042,False,mission energy; loaded voltage below motor published range; stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,14,11,120,16,1077.8132432445295,27.328213609796194,27.844067314052328,204.52404788123192,False,stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,14,11,120,20,1133.3687987987694,27.9480033769207,39.5327537808016,218.7922426808116,False,stall margin / full wing support; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,14,11,130,12,1022.2576876902896,27.440709026670866,14.984840159606627,190.61899895262042,False,mission energy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,14,11,130,16,1077.8132432445295,27.817919497947145,26.79953465960272,204.52404788123192,False,wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,14,11,130,20,1133.3687987987694,28.53332096325909,37.786828311066785,218.7922426808116,False,wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,14,11,140,12,1022.2576876902896,27.944455140809872,14.423997157267316,190.61899895262042,False,mission energy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,14,11,140,16,1077.8132432445295,28.24050169581279,25.959192041440673,204.52404788123192,False,wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,14,11,140,20,1133.3687987987694,28.890608571370255,36.794894762827724,218.7922426808116,False,wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,14,11,150,12,1022.2576876902896,28.671785887377943,13.68449700534116,190.61899895262042,False,mission energy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,14,11,150,16,1077.8132432445295,28.880270218832766,24.782698878846652,204.52404788123192,False,wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,14,11,150,20,1133.3687987987694,29.466290615288024,35.30174608115981,218.7922426808116,False,wing spar stress proxy; wing spar deflection proxy; spar depth / wing envelope
+winged,1.9,16,9,120,12,1022.2351413403135,29.168556711680793,13.22171611417122,190.61343081769843,False,mission energy; loaded voltage below motor published range
+winged,1.9,16,9,120,16,1077.7906968945533,29.756259961750075,23.334587589628686,204.51833044356218,True,
+winged,1.9,16,9,120,20,1133.3462524487934,30.70453105143482,32.46750247202787,218.78637974123274,True,
+winged,1.9,16,9,130,12,1022.2351413403135,29.22241125894365,13.17340121262072,190.61343081769843,False,mission energy; loaded voltage below motor published range
+winged,1.9,16,9,130,16,1077.7906968945533,29.699247765367815,23.423659302202545,204.51833044356218,True,
+winged,1.9,16,9,130,20,1133.3462524487934,30.54559336699016,32.805530682836405,218.78637974123274,True,
+winged,1.9,16,9,140,12,1022.2351413403135,29.589254041949324,12.853459471748486,190.61343081769843,False,mission energy; loaded voltage below motor published range
+winged,1.9,16,9,140,16,1077.7906968945533,29.9591267666733,23.023063675112393,204.51833044356218,True,
+winged,1.9,16,9,140,20,1133.3462524487934,30.71525836024835,32.444938438562545,218.78637974123274,True,
+winged,1.9,16,9,150,12,1022.2351413403135,30.228498110346614,12.331570520343945,190.61343081769843,False,mission energy; loaded voltage below motor published range
+winged,1.9,16,9,150,16,1077.7906968945533,30.486870489451142,22.250312861889846,204.51833044356218,True,
+winged,1.9,16,9,150,20,1133.3462524487934,31.15758588238618,31.541085715104547,218.78637974123274,True,
+winged,1.9,16,10,120,12,1028.7979623744966,28.34171734522088,13.95684294405341,192.23680046422012,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.9,16,10,120,16,1084.3535179287364,28.842245655871935,24.88874901386374,206.1850918424301,False,wing spar deflection proxy
+winged,1.9,16,10,120,20,1139.9090734829765,29.693780768534605,34.857015754497404,220.49543155465693,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,16,10,130,12,1028.7979623744966,28.53005536955783,13.768032822181018,192.23680046422012,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.9,16,10,130,16,1084.3535179287364,28.93500318426566,24.724534037020344,206.1850918424301,False,wing spar deflection proxy
+winged,1.9,16,10,130,20,1139.9090734829765,29.70109012590673,34.83921369053065,220.49543155465693,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,16,10,140,12,1028.7979623744966,28.999795935658028,13.318648121636327,192.23680046422012,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.9,16,10,140,16,1084.3535179287364,29.310216796732973,24.08180467165212,206.1850918424301,False,wing spar deflection proxy
+winged,1.9,16,10,140,20,1139.9090734829765,29.99904136003133,34.12871050962192,220.49543155465693,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,16,10,150,12,1028.7979623744966,29.71891390708103,12.68481823427924,192.23680046422012,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.9,16,10,150,16,1084.3535179287364,29.928427378680773,23.092721104664506,206.1850918424301,False,wing spar deflection proxy
+winged,1.9,16,10,150,20,1139.9090734829765,30.542370616211254,32.90500328888059,220.49543155465693,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,16,11,120,12,1035.1029447643418,27.76044443646495,14.523893018172856,193.80127623036162,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,16,11,120,16,1090.658500318582,28.19333190853098,26.152029561405417,207.79112780800193,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.9,16,11,120,20,1146.2140558728217,28.972449865605768,36.83911579952864,222.14197903745975,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,16,11,130,12,1035.1029447643418,28.047086843325815,14.211329603029979,193.80127623036162,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,16,11,130,16,1090.658500318582,28.39566324777542,25.757442384152622,207.79112780800193,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.9,16,11,130,20,1146.2140558728217,29.10136912722337,36.490072175239874,222.14197903745975,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,16,11,140,12,1035.1029447643418,28.5922934759647,13.652489403531217,193.80127623036162,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,16,11,140,16,1090.658500318582,28.85553596891517,24.9034165750504,207.79112780800193,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.9,16,11,140,20,1146.2140558728217,29.493482434972496,35.46795557923106,222.14197903745975,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,16,11,150,12,1035.1029447643418,29.37014380899232,12.927230085944677,193.80127623036162,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,16,11,150,16,1090.658500318582,29.540317209365966,23.731728948912878,207.79112780800193,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.9,16,11,150,20,1146.2140558728217,30.111136021760846,33.96915501681662,222.14197903745975,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,18,9,120,12,1033.4814260124974,29.749522968945044,12.615912763344003,193.39846711109183,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.9,18,9,120,16,1089.0369815667373,30.31367780653153,22.529710290830124,207.37764201932035,True,
+winged,1.9,18,9,120,20,1144.5925371209773,31.25570633689906,31.482435330401156,221.71808540896885,False,less than 20% continuous hover power headroom
+winged,1.9,18,9,130,12,1033.4814260124974,29.832152390509037,12.547037784998459,193.39846711109183,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.9,18,9,130,16,1089.0369815667373,30.281630186352142,22.576827354344257,207.37764201932035,True,
+winged,1.9,18,9,130,20,1144.5925371209773,31.119213827104982,31.75698321655709,221.71808540896885,False,less than 20% continuous hover power headroom
+winged,1.9,18,9,140,12,1033.4814260124974,30.238078071966,12.219318793785414,193.39846711109183,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.9,18,9,140,16,1089.0369815667373,30.575803974085336,22.151585875215478,207.37764201932035,True,
+winged,1.9,18,9,140,20,1144.5925371209773,31.32031156765665,31.354133594689607,221.71808540896885,False,less than 20% continuous hover power headroom
+winged,1.9,18,9,150,12,1033.4814260124974,30.92670178341116,11.700860702195609,193.39846711109183,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.9,18,9,150,16,1089.0369815667373,31.14663388596005,21.370514996066007,207.37764201932035,True,
+winged,1.9,18,9,150,20,1144.5925371209773,31.80225243163921,30.429054762598778,221.71808540896885,False,less than 20% continuous hover power headroom
+winged,1.9,18,10,120,12,1040.7781485385708,28.918164531515597,13.287657393968765,195.2135642392015,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.9,18,10,120,16,1096.3337040928109,29.393574756889766,24.00090983298315,209.2407194151929,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.9,18,10,120,20,1151.8892596470507,30.23784212714257,33.766498958535536,223.62793806423707,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,18,10,130,12,1040.7781485385708,29.1376902014931,13.08369458147602,195.2135642392015,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.9,18,10,130,16,1096.3337040928109,29.513935971847264,23.800706626361258,209.2407194151929,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.9,18,10,130,20,1151.8892596470507,30.270433047419754,33.6915341514005,223.62793806423707,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,18,10,140,12,1040.7781485385708,29.648186500838385,12.632765453282099,195.2135642392015,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.9,18,10,140,16,1096.3337040928109,29.92535755961037,23.140889054922212,209.2407194151929,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.9,18,10,140,20,1151.8892596470507,30.601905101990596,32.9475816077304,223.62793806423707,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,18,10,150,12,1040.7781485385708,30.417794473680566,12.008808304981265,195.2135642392015,False,mission energy; cell current proxy; loaded voltage below motor published range
+winged,1.9,18,10,150,16,1096.3337040928109,30.5880417774789,22.15174069184333,209.2407194151929,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.9,18,10,150,20,1151.8892596470507,31.18640426961194,31.71278396491959,223.62793806423707,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,18,11,120,12,1047.788199062706,28.33693620480757,13.797615977452725,196.96335368461203,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,18,11,120,16,1103.3437546169462,28.74296132507849,25.190937199640565,211.03644998842665,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.9,18,11,120,20,1158.899310171186,29.513825672032212,35.65585976420112,225.46846338763245,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,18,11,130,12,1047.788199062706,28.656582320228477,13.475345772943918,196.96335368461203,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,18,11,130,16,1103.3437546169462,28.974887862137322,24.766562942062052,211.03644998842665,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.9,18,11,130,20,1158.899310171186,29.670168261772012,35.25656623566312,225.46846338763245,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,18,11,140,12,1047.788199062706,29.24381631359224,12.920910347781582,196.96335368461203,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,18,11,140,16,1103.3437546169462,29.47242351632718,23.902737264745706,211.03644998842665,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.9,18,11,140,20,1158.899310171186,30.097390493722283,34.209709415503355,225.46846338763245,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,18,11,150,12,1047.788199062706,30.0730117429419,12.21145637102169,196.96335368461203,False,mission energy; cell current proxy; loaded voltage below motor published range; wing spar stress proxy; wing spar deflection proxy
+winged,1.9,18,11,150,16,1103.3437546169462,30.202741744648222,22.73858002909231,211.03644998842665,False,wing spar stress proxy; wing spar deflection proxy
+winged,1.9,18,11,150,20,1158.899310171186,30.75740559391184,32.70927102789431,225.46846338763245,False,less than 20% continuous hover power headroom; wing spar stress proxy; wing spar deflection proxy
+wingless,1.6,0,0,120,12,921.66666666272,33.80929715390634,10.388002326043486,181.41647589409453,False,mission energy
+wingless,1.6,0,0,120,16,977.22222221696,35.531421244508344,16.91945859571792,197.11779384560782,False,mission energy
+wingless,1.6,0,0,120,20,1032.7777777712,37.67496810392179,22.325649918744844,213.2720150648479,True,
+wingless,1.6,0,0,130,12,921.66666666272,32.43782149170639,11.152338991765044,181.41647589409453,False,mission energy
+wingless,1.6,0,0,130,16,977.22222221696,33.94531648592797,18.28313873674903,197.11779384560782,False,mission energy
+wingless,1.6,0,0,130,20,1032.7777777712,35.86115532026403,24.26015299863227,213.2720150648479,True,
+wingless,1.6,0,0,140,12,921.66666666272,31.56240409905677,11.701926810729942,181.41647589409453,False,mission energy
+wingless,1.6,0,0,140,16,977.22222221696,32.88295287980929,19.326464124230803,197.11779384560782,False,mission energy
+wingless,1.6,0,0,140,20,1032.7777777712,34.606831204105006,25.80651810395883,213.2720150648479,True,
+wingless,1.6,0,0,150,12,921.66666666272,31.083997955583907,12.025793633402957,181.41647589409453,False,mission energy
+wingless,1.6,0,0,150,16,977.22222221696,32.23668428077444,20.021497148685906,197.11779384560782,True,
+wingless,1.6,0,0,150,20,1032.7777777712,33.79534596363344,26.916478807819516,213.2720150648479,True,
+wingless,1.7,0,0,120,12,921.66666666272,32.31641900938057,11.458397062120492,174.47207354932627,False,mission energy
+wingless,1.7,0,0,120,16,977.22222221696,33.87577124695577,18.390717024540606,189.24978456251526,False,mission energy
+wingless,1.7,0,0,120,20,1032.7777777712,35.81783914768131,24.198687453253328,204.45375747474122,True,
+wingless,1.7,0,0,130,12,921.66666666272,31.124853097789895,12.224084427655095,174.47207354932627,False,mission energy
+wingless,1.7,0,0,130,16,977.22222221696,32.48695197859688,19.753539860565812,189.24978456251526,False,mission energy
+wingless,1.7,0,0,130,20,1032.7777777712,34.22139371289802,26.144964593169398,204.45375747474122,True,
+wingless,1.7,0,0,140,12,921.66666666272,30.39317809791133,12.74713080878854,174.47207354932627,False,mission energy
+wingless,1.7,0,0,140,16,977.22222221696,31.58346791225857,20.754042422096248,189.24978456251526,True,
+wingless,1.7,0,0,140,20,1032.7777777712,33.143244454505776,27.646654514419303,204.45375747474122,True,
+wingless,1.7,0,0,150,12,921.66666666272,30.030632953880932,13.023243843636505,174.47207354932627,False,mission energy
+wingless,1.7,0,0,150,16,977.22222221696,31.06607071483552,21.374000996899486,189.24978456251526,True,
+wingless,1.7,0,0,150,20,1032.7777777712,32.47539633904941,28.666576259327595,204.45375747474122,True,
+wingless,1.8,0,0,120,12,921.66666666272,31.402723041340522,12.190431029342369,169.47327037520293,False,mission energy
+wingless,1.8,0,0,120,16,977.22222221696,32.80146145627629,19.438715903522038,183.4299974432148,False,mission energy
+wingless,1.8,0,0,120,20,1032.7777777712,34.55966540765514,25.59170907110175,197.78930519365045,True,
+wingless,1.8,0,0,130,12,921.66666666272,30.346694448193873,12.92984427446371,169.47327037520293,False,mission energy
+wingless,1.8,0,0,130,16,977.22222221696,31.564023023272256,20.760466068459788,183.4299974432148,True,
+wingless,1.8,0,0,130,20,1032.7777777712,33.13263300813234,27.49617391986132,197.78930519365045,True,
+wingless,1.8,0,0,140,12,921.66666666272,29.722679401885465,13.410498162075987,169.47327037520293,False,mission energy
+wingless,1.8,0,0,140,16,977.22222221696,30.78145559786013,21.6933028139416,183.4299974432148,True,
+wingless,1.8,0,0,140,20,1032.7777777712,32.19055346967287,28.91679262736605,197.78930519365045,True,
+wingless,1.8,0,0,150,12,921.66666666272,29.44673027886254,13.634636782623783,169.47327037520293,False,mission energy
+wingless,1.8,0,0,150,16,977.22222221696,30.361582472589216,22.229209121788312,183.4299974432148,True,
+wingless,1.8,0,0,150,20,1032.7777777712,31.632874148035917,29.82910259821354,197.78930519365045,True,
+wingless,1.9,0,0,120,12,921.66666666272,31.036925388778513,12.526358905963543,166.39805160002985,False,mission energy
+wingless,1.9,0,0,120,16,977.22222221696,32.274993107927635,19.980170430963575,179.6202140855148,False,mission energy
+wingless,1.9,0,0,120,20,1032.7777777712,33.86277541599553,26.396821801027027,193.22376879645378,True,
+wingless,1.9,0,0,130,12,921.66666666272,30.0766488914946,13.219370664524547,166.39805160002985,False,mission energy
+wingless,1.9,0,0,130,16,977.22222221696,31.14750533321132,21.229689009036264,179.6202140855148,True,
+wingless,1.9,0,0,130,20,1032.7777777712,32.56175577734222,28.215070821447767,193.22376879645378,True,
+wingless,1.9,0,0,140,12,921.66666666272,29.528130659141944,13.650757894492287,166.39805160002985,False,mission energy
+wingless,1.9,0,0,140,16,977.22222221696,30.451825276788988,22.081758258217643,179.6202140855148,True,
+wingless,1.9,0,0,140,20,1032.7777777712,31.719744485979504,29.531575484469176,193.22376879645378,True,
+wingless,1.9,0,0,150,12,921.66666666272,29.31281945873551,13.827886153699062,166.39805160002985,False,mission energy
+wingless,1.9,0,0,150,16,977.22222221696,30.10150802463415,22.53725390382628,179.6202140855148,True,
+wingless,1.9,0,0,150,20,1032.7777777712,31.24235223516817,30.334045930214256,193.22376879645378,True,

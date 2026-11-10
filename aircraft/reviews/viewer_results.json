@@ -1,0 +1,37 @@
+{
+  "status": "pass",
+  "script": "Exact inline script from distributed HTML",
+  "operations": 89,
+  "network_calls": 0,
+  "canvas_sizes": [
+    [
+      1150,
+      650
+    ],
+    [
+      390,
+      460
+    ]
+  ],
+  "components": 167,
+  "tilt_hub_coordinates_m": [
+    [
+      -4.45,
+      -3.3,
+      2.5
+    ],
+    [
+      -4.7328427124746195,
+      -3.3,
+      2.382842712474619
+    ],
+    [
+      -4.85,
+      -3.3,
+      2.1
+    ]
+  ],
+  "renderer": "@napi-rs/canvas",
+  "real_browser": false,
+  "limits": "Small DOM adapter; no native browser layout, accessibility or cross-browser verification. Chromium launch attempted but blocked by the execution environment Unix-socket restriction. Optional Playwright browser test is included for local reproduction."
+}

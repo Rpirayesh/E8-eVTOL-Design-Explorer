@@ -4,6 +4,14 @@ An interactive design explorer for a **two-person, eight-motor electric VTOL con
 
 **Student edition 1.1 · runs offline · no installation or sign-in needed after downloading.**
 
+## 3D aircraft concept and parts study
+
+The [aircraft design package](aircraft/README.md) adds a 167-component concept assembly in **STEP, FreeCAD and STL**, an [offline 3D viewer](aircraft/viewer/E8_3D_Viewer_Offline.html?raw=true), a sourced parts shortlist, a 624-case trade study and independent reviews. Download the [complete concept ZIP](https://github.com/Rpirayesh/E8-eVTOL-Design-Explorer/raw/refs/heads/main/downloads/E8_Aircraft_Concept_0_1.zip) for the models, analysis, reports and rebuild scripts.
+
+**This is a preliminary educational concept, not a fabrication or flight release.** The reviews confirm unresolved rotor-out, torque, thermal and control limitations. The parts shortlist does not establish a cheapest complete aircraft. Read the [design report](aircraft/DESIGN_REPORT.md) and [review findings](aircraft/reviews/README.md) before using its estimates.
+
+[START_HERE.md](START_HERE.md) explains how to open the complete aircraft archive. Fresh recovery checks are recorded in the [recovery review](aircraft/reviews/recovery_review.md).
+
 ## Start here — students
 
 1. Download the [student offline package](downloads/E8_eVTOL_Explorer_Student_Offline.zip?raw=true).

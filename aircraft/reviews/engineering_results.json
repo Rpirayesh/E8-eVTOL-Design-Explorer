@@ -1,0 +1,156 @@
+{
+  "review_date": "2026-11-09",
+  "reviewer_role": "independent engineering and sourcing agent",
+  "review_status": "Educational concept package only; no aircraft design or flight release",
+  "physical_validation": false,
+  "source_checks": [
+    {
+      "id": "S01",
+      "url": "https://mgm-compro.com/electric-motor/reb-50-50-kw/",
+      "verdict": "headline specs corroborated; continuous torque/cooling at operating point unresolved"
+    },
+    {
+      "id": "S02",
+      "url": "https://mgm-compro.com/controllers-inverters-escs/hbci-400800/",
+      "verdict": "cold-plate and cooled-version masses distinguished; voltage range corroborated"
+    },
+    {
+      "id": "S03",
+      "url": "https://uav.e-props.fr/adjustable-pitch.php",
+      "verdict": "CW/CCW diameter restriction corroborated; exact matching unresolved"
+    },
+    {
+      "id": "S06",
+      "url": "https://www.18650batterystore.com/products/molicel-21700-p50b-5000mah-50a-battery",
+      "verdict": "opened bulk tier 1000+ at USD 7.50 corroborated"
+    },
+    {
+      "id": "S07",
+      "url": "https://store.tmotor.com/product/u15xxl-manned-aircraft-combo.html",
+      "verdict": "NS62 bench thrust row corroborated; full-scale rejection supported"
+    }
+  ],
+  "bom_mass_without_occupants_kg": 864.8499725277894,
+  "total_mass_with_occupants_kg": 1054.8499725277893,
+  "cell_only_cost_usd": 19200.0,
+  "full_aircraft_cost_established": false,
+  "global_optimum_established": false,
+  "rotor_out": [
+    {
+      "failed_rotor": null,
+      "max_shaft_kw": 24.177231015605543,
+      "torque_nm": 128.26419421361024,
+      "maximum_torque_screen_pass": true
+    },
+    {
+      "failed_rotor": 0,
+      "max_shaft_kw": 41.22850107972258,
+      "torque_nm": 218.72399143691308,
+      "maximum_torque_screen_pass": false
+    },
+    {
+      "failed_rotor": 1,
+      "max_shaft_kw": 41.22850107972258,
+      "torque_nm": 218.72399143691308,
+      "maximum_torque_screen_pass": false
+    },
+    {
+      "failed_rotor": 2,
+      "max_shaft_kw": 36.28325685245978,
+      "torque_nm": 192.4886559847286,
+      "maximum_torque_screen_pass": true
+    },
+    {
+      "failed_rotor": 3,
+      "max_shaft_kw": 36.28325685245978,
+      "torque_nm": 192.4886559847286,
+      "maximum_torque_screen_pass": true
+    },
+    {
+      "failed_rotor": 4,
+      "max_shaft_kw": 36.283256852459786,
+      "torque_nm": 192.48865598472867,
+      "maximum_torque_screen_pass": true
+    },
+    {
+      "failed_rotor": 5,
+      "max_shaft_kw": 36.283256852459786,
+      "torque_nm": 192.48865598472867,
+      "maximum_torque_screen_pass": true
+    },
+    {
+      "failed_rotor": 6,
+      "max_shaft_kw": 41.6862069998435,
+      "torque_nm": 221.15219675923538,
+      "maximum_torque_screen_pass": false
+    },
+    {
+      "failed_rotor": 7,
+      "max_shaft_kw": 41.6862069998435,
+      "torque_nm": 221.15219675923538,
+      "maximum_torque_screen_pass": false
+    }
+  ],
+  "resistance_sensitivity": [
+    {
+      "resistance_factor": 1,
+      "loaded_voltage_v": 415.0483377542598,
+      "cell_current_a": 31.71467883092781,
+      "battery_heat_kw": 32.958737722536775
+    },
+    {
+      "resistance_factor": 1.25,
+      "loaded_voltage_v": 394.6040125228378,
+      "cell_current_a": 33.35780760826648,
+      "battery_heat_kw": 45.57796673249775
+    },
+    {
+      "resistance_factor": 1.5,
+      "loaded_voltage_v": 371.00717852772095,
+      "cell_current_a": 35.4794340730075,
+      "battery_heat_kw": 61.87205798170882
+    },
+    {
+      "resistance_factor": 2,
+      "loaded_voltage_v": 300.69465463332716,
+      "cell_current_a": 43.77571908366036,
+      "battery_heat_kw": 125.58752686352277
+    }
+  ],
+  "boom_tube_mass_including_diagonals_kg": 92.54208541841902,
+  "total_nominal_battery_drivetrain_heat_kw": 49.68753737845586,
+  "findings": [
+    {
+      "id": "E01",
+      "severity": "blocker for flight design",
+      "finding": "Outer-row rotor-out proxy exceeds published maximum torque at 1800 rpm; all rotor-out cases exceed continuous screen"
+    },
+    {
+      "id": "E02",
+      "severity": "blocker for robust propulsion sizing",
+      "finding": "25% resistance increase drops loaded hover bus below motor published range"
+    },
+    {
+      "id": "E03",
+      "severity": "blocker for flight design",
+      "finding": "Thermal rejection, containment and local temperatures unverified"
+    },
+    {
+      "id": "E04",
+      "severity": "mass closure gap",
+      "finding": "Principal and diagonal tube mass exceeds boom allowance before fittings"
+    },
+    {
+      "id": "E05",
+      "severity": "procurement/design gap",
+      "finding": "No supplier-matched propeller performance map or exact rotor item"
+    }
+  ],
+  "reviewed_sha256": {
+    "selected_design.json": "09461b3efff3ade4853e05b40702520a9eb3507f472230464cdb0c0d744205af",
+    "DESIGN_REPORT.md": "644d304f3897472b1b6e359876b41e1c98679bad3c590bdc072191272f9902ba",
+    "BOM.csv": "92aa8fbde26160931012d9526ea506c9e835915d01915f69bf962f5eb625eac6",
+    "sources/source_ledger.json": "a6babbcf90cd7af7a23d2a6f785606022a6e3d39b7379a74f92cac7ca1974eb4",
+    "analysis/results.json": "7357b8083d76dea7b25f89e6ae7181970ff43bded74bf9aa1cab8c05b6b3428f"
+  }
+}

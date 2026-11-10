@@ -1,0 +1,17 @@
+subsystem,candidate,quantity,unit_mass_kg_or_allowance,price_basis,source_ids,qualification_gap
+Motor,MGM COMPRO REB 50 candidate,8,12,RFQ,S01,30 kW conservative continuous screen; full torque/cooling map and winding required
+Inverter,MGM COMPRO HBCi 400800 cold-plate candidate,8,4,RFQ,S02,800 V ceiling exceeds 672 V charge; oversized; cooling mass separate
+Rotor,Matched two-blade CW/CCW propeller; E-PROPS inquiry candidate,8,2,RFQ,S03,1.70 m envelope; 4 CW + 4 CCW; 1800 rpm assumed; hover requires about 132 kgf each; no matched blade data
+Cells,Molicel P50B,2560,0.071,7.50 USD/cell (1000+ tier),"S04,S05,S06","Cell-only cost; traceability, screening, pack production and shipping extra"
+Battery modules,Custom protected pack modules,4,10.115555554239997,RFQ,assumption,"Non-cell mass only here, to avoid double counting cells. Four 160s4p envelopes; architecture only"
+Tilt mechanisms,"Custom trunnion, actuator, lock and sensors",8,4,RFQ,assumption,"Kinematic envelopes; bearings, fail-safe locks, gear ratio and fatigue loads unresolved"
+Primary frame,"Fuselage structure, floor and shell",1,90,RFQ,assumption,"Allowable mass budget; CAD shell thickness is visual, not a laminate schedule"
+Boom system,"CFRP tubes, outriggers and joints",1,110,RFQ,assumption,Tube screen 150 mm OD / 4 mm wall; joints and crossbeam load transfer not solved
+Aero system,"Wing, tail, surfaces and fittings",1,77.62775031082947,RFQ,assumption,Mass scaling allowance; includes tail. CFRP laminate and attachment details unresolved
+HV system,"BMS interfaces, fuses, contactors, precharge, isolation, harness",1,18,RFQ,assumption,Functional requirements only; no production wiring design
+Cooling,"Cold plates, radiator, pumps, ducts and coolant",1,12,RFQ,assumption,Mass allowance; 33 kW battery heat proxy during hover is not substantiated by cooling design
+Landing gear,"Wheels, struts, brakes and attachments",1,20,RFQ,assumption,Geometric arrangement only; drop/crash/braking tests required
+Avionics,"Flight-control system, sensors and redundant LV supplies",1,10,RFQ,assumption,Human-carrying architecture not selected or qualified
+Cabin,"Seats, controls and restraints",1,18,RFQ,assumption,Crashworthy seats/restraints require engineering and tests
+Safety,"Detection, containment and emergency equipment",1,12,RFQ,assumption,No parachute selection or deployment-envelope claim
+Growth,Unallocated mass growth,1,99,not procurement,assumption,"99 kg at assumed x=0, z=.3; move/resize when actual component masses are known"

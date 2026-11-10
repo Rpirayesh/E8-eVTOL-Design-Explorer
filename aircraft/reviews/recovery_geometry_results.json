@@ -1,0 +1,479 @@
+{
+  "exports": {
+    "E8_Winged_Hover.step": {
+      "leaf_count": 167,
+      "solids": 167,
+      "invalid": [],
+      "bbox_mm": [
+        -5300.000000000024,
+        -4500.0,
+        -1250.0,
+        5300.000000000024,
+        4500.0,
+        2535.0
+      ]
+    },
+    "E8_Winged_Cruise.step": {
+      "leaf_count": 167,
+      "solids": 167,
+      "invalid": [],
+      "bbox_mm": [
+        -4885.0,
+        -4500.0,
+        -1250.0,
+        4855.0,
+        4500.0,
+        2950.000000000024
+      ]
+    },
+    "E8_Wingless_Hover.step": {
+      "leaf_count": 149,
+      "solids": 149,
+      "invalid": [],
+      "bbox_mm": [
+        -5300.000000000024,
+        -3500.0,
+        -1250.0,
+        5300.000000000024,
+        3787.5399708983305,
+        2535.0
+      ]
+    },
+    "E8_Concept_Assembly.FCStd": {
+      "leaf_count": 167,
+      "solids": 167,
+      "invalid": [],
+      "bbox_mm": [
+        -5300.000000000024,
+        -4500.0,
+        -1250.0,
+        5300.000000000024,
+        4500.0,
+        2535.0
+      ]
+    }
+  },
+  "stls": {
+    "E8_Winged_Hover.stl": {
+      "triangles": 25818,
+      "actual_bytes": 1290984,
+      "expected_bytes": 1290984,
+      "nonfinite_triangles": 0,
+      "bbox_mm": [
+        -5300.0,
+        -4500.0,
+        -1249.563720703125,
+        5300.0,
+        4500.0,
+        2535.0
+      ]
+    },
+    "E8_Wingless_Hover.stl": {
+      "triangles": 23386,
+      "actual_bytes": 1169384,
+      "expected_bytes": 1169384,
+      "nonfinite_triangles": 0,
+      "bbox_mm": [
+        -5300.0,
+        -3500.0,
+        -1249.563720703125,
+        5300.0,
+        3787.5400390625,
+        2535.0
+      ]
+    }
+  },
+  "seat_spar": {
+    "Seat_cushion_-400": {
+      "distance_mm": 1340.0,
+      "intersection_mm3": 0.0
+    },
+    "Seat_back_-400": {
+      "distance_mm": 670.0,
+      "intersection_mm3": 0.0
+    },
+    "Seat_cushion_400": {
+      "distance_mm": 1340.0,
+      "intersection_mm3": 0.0
+    },
+    "Seat_back_400": {
+      "distance_mm": 670.0,
+      "intersection_mm3": 0.0
+    }
+  },
+  "rotor_attachments": {
+    "1": {
+      "blade_hub": {
+        "R1_blade_1_VISUAL_ONLY": {
+          "distance_mm": 0.0,
+          "intersection_mm3": 12964.480164521308
+        },
+        "R1_blade_2_VISUAL_ONLY": {
+          "distance_mm": 0.0,
+          "intersection_mm3": 12964.480164519737
+        }
+      },
+      "yoke_motor": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 157079.63267948967
+      },
+      "yoke_axle": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 301287.2129278767
+      },
+      "standoff_fixed_part_distances_mm": {
+        "R1_fork_crosshead": 0.0,
+        "R1_tilt_axle": 105.0,
+        "R1_fork_-160": 90.0,
+        "R1_fork_160": 90.0
+      },
+      "standoff_boom": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 3407.3987689210553
+      }
+    },
+    "2": {
+      "blade_hub": {
+        "R2_blade_1_VISUAL_ONLY": {
+          "distance_mm": 0.0,
+          "intersection_mm3": 12964.480163987979
+        },
+        "R2_blade_2_VISUAL_ONLY": {
+          "distance_mm": 0.0,
+          "intersection_mm3": 12964.480163987839
+        }
+      },
+      "yoke_motor": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 157079.63267948967
+      },
+      "yoke_axle": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 301287.21292787674
+      },
+      "standoff_fixed_part_distances_mm": {
+        "R2_fork_crosshead": 0.0,
+        "R2_tilt_axle": 105.0,
+        "R2_fork_-160": 90.0,
+        "R2_fork_160": 90.0
+      },
+      "standoff_boom": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 3407.3987689211017
+      }
+    },
+    "3": {
+      "blade_hub": {
+        "R3_blade_1_VISUAL_ONLY": {
+          "distance_mm": 0.0,
+          "intersection_mm3": 12964.480164521283
+        },
+        "R3_blade_2_VISUAL_ONLY": {
+          "distance_mm": 0.0,
+          "intersection_mm3": 12964.480164519668
+        }
+      },
+      "yoke_motor": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 157079.6326794897
+      },
+      "yoke_axle": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 301287.2129271802
+      },
+      "standoff_fixed_part_distances_mm": {
+        "R3_fork_crosshead": 0.0,
+        "R3_tilt_axle": 105.0,
+        "R3_fork_-160": 90.0,
+        "R3_fork_160": 90.0
+      },
+      "standoff_boom": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 6823.786585726528
+      }
+    },
+    "4": {
+      "blade_hub": {
+        "R4_blade_1_VISUAL_ONLY": {
+          "distance_mm": 0.0,
+          "intersection_mm3": 12964.480163987451
+        },
+        "R4_blade_2_VISUAL_ONLY": {
+          "distance_mm": 0.0,
+          "intersection_mm3": 12964.480163987337
+        }
+      },
+      "yoke_motor": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 157079.6326794897
+      },
+      "yoke_axle": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 301287.2129271802
+      },
+      "standoff_fixed_part_distances_mm": {
+        "R4_fork_crosshead": 0.0,
+        "R4_tilt_axle": 105.0,
+        "R4_fork_-160": 90.0,
+        "R4_fork_160": 90.0
+      },
+      "standoff_boom": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 6823.786585725244
+      }
+    },
+    "5": {
+      "blade_hub": {
+        "R5_blade_1_VISUAL_ONLY": {
+          "distance_mm": 0.0,
+          "intersection_mm3": 12964.480164521266
+        },
+        "R5_blade_2_VISUAL_ONLY": {
+          "distance_mm": 0.0,
+          "intersection_mm3": 12964.480164519697
+        }
+      },
+      "yoke_motor": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 157079.6326794897
+      },
+      "yoke_axle": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 301287.2129271802
+      },
+      "standoff_fixed_part_distances_mm": {
+        "R5_fork_crosshead": 0.0,
+        "R5_tilt_axle": 105.0,
+        "R5_fork_-160": 90.0,
+        "R5_fork_160": 90.0
+      },
+      "standoff_boom": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 6823.786593646317
+      }
+    },
+    "6": {
+      "blade_hub": {
+        "R6_blade_1_VISUAL_ONLY": {
+          "distance_mm": 0.0,
+          "intersection_mm3": 12964.48016398743
+        },
+        "R6_blade_2_VISUAL_ONLY": {
+          "distance_mm": 0.0,
+          "intersection_mm3": 12964.48016398746
+        }
+      },
+      "yoke_motor": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 157079.6326794897
+      },
+      "yoke_axle": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 301287.2129271802
+      },
+      "standoff_fixed_part_distances_mm": {
+        "R6_fork_crosshead": 0.0,
+        "R6_tilt_axle": 105.0,
+        "R6_fork_-160": 90.0,
+        "R6_fork_160": 90.0
+      },
+      "standoff_boom": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 6823.786593646011
+      }
+    },
+    "7": {
+      "blade_hub": {
+        "R7_blade_1_VISUAL_ONLY": {
+          "distance_mm": 0.0,
+          "intersection_mm3": 12964.480164521308
+        },
+        "R7_blade_2_VISUAL_ONLY": {
+          "distance_mm": 0.0,
+          "intersection_mm3": 12964.480164519737
+        }
+      },
+      "yoke_motor": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 157079.63267948967
+      },
+      "yoke_axle": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 301287.2129278767
+      },
+      "standoff_fixed_part_distances_mm": {
+        "R7_fork_crosshead": 0.0,
+        "R7_tilt_axle": 105.0,
+        "R7_fork_-160": 90.0,
+        "R7_fork_160": 90.0
+      },
+      "standoff_boom": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 3411.9837962612983
+      }
+    },
+    "8": {
+      "blade_hub": {
+        "R8_blade_1_VISUAL_ONLY": {
+          "distance_mm": 0.0,
+          "intersection_mm3": 12964.480163988173
+        },
+        "R8_blade_2_VISUAL_ONLY": {
+          "distance_mm": 0.0,
+          "intersection_mm3": 12964.480163987662
+        }
+      },
+      "yoke_motor": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 157079.63267948967
+      },
+      "yoke_axle": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 301287.21292787674
+      },
+      "standoff_fixed_part_distances_mm": {
+        "R8_fork_crosshead": 0.0,
+        "R8_tilt_axle": 105.0,
+        "R8_fork_-160": 90.0,
+        "R8_fork_160": 90.0
+      },
+      "standoff_boom": {
+        "distance_mm": 0.0,
+        "intersection_mm3": 3411.983796261293
+      }
+    }
+  },
+  "high_wing_pylons": {
+    "High_wing_pylon_-1000": {
+      "nearest_lower_or_other_part": [
+        [
+          "High_wing_support_rail_-1000",
+          0.0
+        ],
+        [
+          "Canopy_envelope",
+          248.65397389540132
+        ],
+        [
+          "Fuselage_shell_envelope_15mm_not_laminate",
+          248.97965569893776
+        ],
+        [
+          "Seat_back_-400",
+          316.22776601683796
+        ],
+        [
+          "Cabin_bulkhead_-700",
+          404.3444626113848
+        ],
+        [
+          "Cabin_bulkhead_200",
+          432.621209733251
+        ]
+      ]
+    },
+    "High_wing_pylon_1000": {
+      "nearest_lower_or_other_part": [
+        [
+          "High_wing_support_rail_1000",
+          0.0
+        ],
+        [
+          "Canopy_envelope",
+          248.65397391332021
+        ],
+        [
+          "Fuselage_shell_envelope_15mm_not_laminate",
+          248.9796557141636
+        ],
+        [
+          "Seat_back_400",
+          316.22776601683796
+        ],
+        [
+          "Cabin_bulkhead_-700",
+          404.3444626113848
+        ],
+        [
+          "Cabin_bulkhead_200",
+          432.621209733251
+        ]
+      ]
+    }
+  },
+  "rigid_disk_sweep": {
+    "tilts_deg": [
+      0,
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      35,
+      40,
+      45,
+      50,
+      55,
+      60,
+      65,
+      70,
+      75,
+      80,
+      85,
+      90
+    ],
+    "rotors": 8,
+    "collision_events": [],
+    "definition": "20mm-thick rigid disk against fixed shapes; excludes rotating blades, hubs, motor and yoke"
+  },
+  "motor_yoke_sweep": {
+    "tilts_deg": [
+      0,
+      5,
+      10,
+      15,
+      20,
+      25,
+      30,
+      35,
+      40,
+      45,
+      50,
+      55,
+      60,
+      65,
+      70,
+      75,
+      80,
+      85,
+      90
+    ],
+    "collision_events": [],
+    "exclusions": "The own tilt axle is the intended revolute interface"
+  },
+  "limits": "No deformation, tolerances, running blade deflection, bearing/joint design, full pairwise assembly test or dynamic flight validation",
+  "battery_hull_intersections_mm3": {
+    "Battery_module_-150_-430": 0.0,
+    "Battery_module_-150_430": 0.0,
+    "Battery_module_1250_-430": 0.0,
+    "Battery_module_1250_430": 0.0
+  },
+  "battery_bay_clearance_mm": {
+    "Battery_module_-150_-430": 5.0,
+    "Battery_module_-150_430": 5.0,
+    "Battery_module_1250_-430": 5.0,
+    "Battery_module_1250_430": 5.0
+  },
+  "native_step_hull_volume_match_mm3": 1.9073486328125e-06,
+  "input_sha256": {
+    "cad/E8_Winged_Hover.step": "f24ff594f785e4aa56d02ef37043cf04792d61b1232c451402ceab4f66aaa43f",
+    "cad/E8_Winged_Cruise.step": "e8ebae4831286b5ef43638f07c93fc61b307688d6e85b2578f3bf70e496819e4",
+    "cad/E8_Wingless_Hover.step": "ec2c5cf0a7893dc77a69be82155c70f217a994cfba1eecb920faba012ac1345f",
+    "cad/E8_Winged_Hover.stl": "8a9597666aa3f9dd40c66a9513eb3d099501557f35b633199218df5fe3ad9427",
+    "cad/E8_Wingless_Hover.stl": "2a677e1092e89ef7bb49768e483a5977bed56e20a98a0df288aa8f7a677ed406",
+    "cad/E8_Concept_Assembly.FCStd": "7b69b0dcb6776f21fd002a99cab17dc6859696b07a9ac843cb412c6ca0759f32",
+    "selected_design.json": "2f19bb212684a5495d7ef828cb250da8be525e4c3461d19e6083d52628c71601",
+    "viewer/E8_3D_Viewer_Offline.html": "fafdf4c5063b1bd9cc9287c25a36a2973adacb9965a3d5350ea252947a1a85b3"
+  }
+}

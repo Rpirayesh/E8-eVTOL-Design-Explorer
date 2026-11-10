@@ -1,0 +1,17 @@
+item,kg,x_m,z_m
+"Fuselage frame, floor and shell",90,0,0.25
+"Booms, outriggers and fittings",110,0,1.0
+Eight tilt mechanisms,32,0,2.1
+Eight propellers and hubs,16,0,2.5
+"HV protection, harness and distribution",18,0.1,0
+Cooling and coolant,12,1.2,0.1
+Landing gear,20,0.1,-0.8
+Avionics and controls,10,-1.3,0.6
+Seats and restraints,18,-0.6,0.2
+Safety equipment allowance,12,0.3,0.3
+Eight motors,96,0,2.36
+Eight inverters,32,0,1.0
+Installed battery,222.22222221695998,0.55,-0.4
+Two occupants,190,-0.6,0.45
+Unallocated growth allowance,99,0,0.3
+"Wing, tail and aerodynamic controls",77.62775031082947,0.15,1.4

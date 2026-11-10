@@ -1,0 +1,7 @@
+{
+  "status": "blocked_before_page_load",
+  "browser_pass": false,
+  "reason": "Fresh headless Chromium launch failed in the current execution sandbox: process_singleton socket() returned Operation not permitted.",
+  "script": "final_geometry_viewer_check.cjs",
+  "scope": "No fresh browser rendering or cross-browser pass is claimed. Separate root-owned Canvas/DOM-adapter software tests are reported elsewhere."
+}
