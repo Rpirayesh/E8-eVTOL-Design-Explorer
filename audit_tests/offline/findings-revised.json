@@ -1,0 +1,114 @@
+{
+  "source": "/workspace/scratch/2eca575bca79/e8_audit/revised/E8_eVTOL_Explorer_Offline.html",
+  "checkGroups": 19,
+  "passed": 19,
+  "failed": 0,
+  "operations": 2212,
+  "checks": [
+    {
+      "name": "Offline packaging has one inline script and no external resource dependency",
+      "pass": true
+    },
+    {
+      "name": "Responsive CSV export button stays visible and has explicit accessible name",
+      "pass": true
+    },
+    {
+      "name": "CSV export refuses a pending invalid edit, then succeeds after correction",
+      "pass": true
+    },
+    {
+      "name": "Storage scenario {}",
+      "pass": true
+    },
+    {
+      "name": "Storage scenario {\"getThrows\":true}",
+      "pass": true
+    },
+    {
+      "name": "Storage scenario {\"setThrows\":true}",
+      "pass": true
+    },
+    {
+      "name": "Storage scenario {\"getThrows\":true,\"setThrows\":true}",
+      "pass": true
+    },
+    {
+      "name": "Storage scenario {\"stored\":\"not JSON\"}",
+      "pass": true
+    },
+    {
+      "name": "Storage scenario {\"stored\":\"null\"}",
+      "pass": true
+    },
+    {
+      "name": "Storage scenario {\"stored\":\"[]\"}",
+      "pass": true
+    },
+    {
+      "name": "Storage scenario {\"stored\":\"{\\\"inputs\\\":{\\\"speed\\\":0}}\"}",
+      "pass": true
+    },
+    {
+      "name": "Storage scenario {\"stored\":\"{\\\"inputs\\\":{\\\"rho\\\":\\\"1.225\\\"}}\"}",
+      "pass": true
+    },
+    {
+      "name": "Storage scenario {\"stored\":\"{\\\"inputs\\\":{\\\"reserve\\\":60,\\\"soc\\\":30}}\"}",
+      "pass": true
+    },
+    {
+      "name": "Every numeric field accepts both permitted bounds (subject to SOC constraint)",
+      "pass": true
+    },
+    {
+      "name": "Invalid inputs preserve last valid assumptions and clearly mark pending edits",
+      "pass": true
+    },
+    {
+      "name": "Configuration, chart metric and view buttons stay consistent",
+      "pass": true
+    },
+    {
+      "name": "Chart click speed conversion clamps and rounds correctly",
+      "pass": true
+    },
+    {
+      "name": "1,000 mixed repeated valid edits and resets remain finite and deterministic",
+      "pass": true
+    },
+    {
+      "name": "40 CSV exports match current assumptions, configuration results and 101-point sweeps",
+      "pass": true
+    }
+  ],
+  "failures": [],
+  "browserVerification": {
+    "actualFile": "Not completed",
+    "native": "Chromium launched; Sky text input failed due to unavailable AT-SPI provider.",
+    "cloud": "file: URL explicitly rejected; only http/https permitted. No workaround attempted.",
+    "httpPreview": {
+      "url": "http://127.0.0.1:4173/",
+      "loads": true,
+      "speed_configuration_range_controls": true,
+      "embedded_checks": "9/9 passed",
+      "independent_reference_cases": "5/5 passed",
+      "invalid_export_blocked": true,
+      "corrected_export_downloaded": true,
+      "reset_defaults": true,
+      "viewport_css_width": 1348,
+      "responsive_621_to_820_regression": "Static CSS cascade check only; viewport resizing was unavailable."
+    }
+  },
+  "defects": [],
+  "html_sha256": "a9aa0bf10cdfd63cecf21506f5413119ebb7029bdecc7963080a53525f3c46c7",
+  "coverage": {
+    "numeric_fields": 28,
+    "min_max_field_edits": 56,
+    "invalid_edit_cases": 168,
+    "storage_scenarios": 10,
+    "mixed_repeated_edits": 1000,
+    "csv_exports_compared": 40,
+    "csv_sweep_rows_per_export": 101
+  }
+}

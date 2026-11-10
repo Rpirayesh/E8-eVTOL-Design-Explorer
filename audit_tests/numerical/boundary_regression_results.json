@@ -1,0 +1,13 @@
+{
+  "base_operating_points": 576,
+  "eligible_feasible_points": 200,
+  "classification_cases": 600,
+  "exact_range_cases": 200,
+  "inside_cases": 200,
+  "outside_cases": 200,
+  "distance_perturbation_km": 0.0001,
+  "failures": 0,
+  "classification_failures": 0,
+  "exact_not_normalized": 0,
+  "failure_examples": []
+}

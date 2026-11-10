@@ -1,0 +1,91 @@
+{
+  "source": "/workspace/scratch/2eca575bca79/e8_audit/original/E8_eVTOL_Explorer_Offline.html",
+  "checkGroups": 17,
+  "passed": 17,
+  "failed": 0,
+  "operations": 2207,
+  "checks": [
+    {
+      "name": "Offline packaging has one inline script and no external resource dependency",
+      "pass": true
+    },
+    {
+      "name": "Storage scenario {}",
+      "pass": true
+    },
+    {
+      "name": "Storage scenario {\"getThrows\":true}",
+      "pass": true
+    },
+    {
+      "name": "Storage scenario {\"setThrows\":true}",
+      "pass": true
+    },
+    {
+      "name": "Storage scenario {\"getThrows\":true,\"setThrows\":true}",
+      "pass": true
+    },
+    {
+      "name": "Storage scenario {\"stored\":\"not JSON\"}",
+      "pass": true
+    },
+    {
+      "name": "Storage scenario {\"stored\":\"null\"}",
+      "pass": true
+    },
+    {
+      "name": "Storage scenario {\"stored\":\"[]\"}",
+      "pass": true
+    },
+    {
+      "name": "Storage scenario {\"stored\":\"{\\\"inputs\\\":{\\\"speed\\\":0}}\"}",
+      "pass": true
+    },
+    {
+      "name": "Storage scenario {\"stored\":\"{\\\"inputs\\\":{\\\"rho\\\":\\\"1.225\\\"}}\"}",
+      "pass": true
+    },
+    {
+      "name": "Storage scenario {\"stored\":\"{\\\"inputs\\\":{\\\"reserve\\\":60,\\\"soc\\\":30}}\"}",
+      "pass": true
+    },
+    {
+      "name": "Every numeric field accepts both permitted bounds (subject to SOC constraint)",
+      "pass": true
+    },
+    {
+      "name": "Invalid inputs preserve last valid assumptions and clearly mark pending edits",
+      "pass": true
+    },
+    {
+      "name": "Configuration, chart metric and view buttons stay consistent",
+      "pass": true
+    },
+    {
+      "name": "Chart click speed conversion clamps and rounds correctly",
+      "pass": true
+    },
+    {
+      "name": "1,000 mixed repeated valid edits and resets remain finite and deterministic",
+      "pass": true
+    },
+    {
+      "name": "40 CSV exports match current assumptions, configuration results and 101-point sweeps",
+      "pass": true
+    }
+  ],
+  "failures": [],
+  "browserVerification": {
+    "actualFile": "Not completed",
+    "native": "Chromium launched; Sky text input failed due to unavailable AT-SPI provider.",
+    "cloud": "file: URL explicitly rejected; only http/https permitted. No workaround attempted."
+  },
+  "defects": [
+    {
+      "severity": "medium",
+      "name": "CSV export hidden for 621–820px viewport widths",
+      "evidence": ".page-head>.outline-button{display:none} at max-width:820, restored only at max-width:620",
+      "repro": "Open at 700 CSS px width: sole Export study button is hidden."
+    }
+  ]
+}

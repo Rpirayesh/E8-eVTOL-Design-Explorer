@@ -1,0 +1,28 @@
+{
+  "model_cases": 20245,
+  "random_cases": 20000,
+  "boundary_cases": 168,
+  "corner_cases": 64,
+  "named_cases": 13,
+  "arithmetic_failures": 0,
+  "independent_method": "Dimensionless Brent inflow solver, algebraic force projection, lift-squared induced drag, second Brent root for hover ceiling.",
+  "maximum_scaled_relative_error_cruise_power": 6.228776507734225e-15,
+  "maximum_scaled_relative_error_hover_power": 6.329417647893266e-16,
+  "maximum_scaled_relative_error_energy_only_range": 1.6486811915683575e-14,
+  "bug": "Exact-range missions can be falsely labeled energy shortfall due solely to floating-point cancellation.",
+  "example": {
+    "case": {
+      "inputs": {
+        "rho": 0.7,
+        "speed": 120,
+        "tripDistance": 51.05903077241828
+      },
+      "winged": true,
+      "kind": "trip-boundary",
+      "name": "Thin air"
+    },
+    "tripMargin": -3.552713678800501e-15,
+    "range": 51.05903077241828,
+    "tripDistance": 51.05903077241828
+  }
+}

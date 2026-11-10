@@ -1,0 +1,3 @@
+# Optional independent numerical audit only; not needed to use the offline app.
+numpy
+scipy
